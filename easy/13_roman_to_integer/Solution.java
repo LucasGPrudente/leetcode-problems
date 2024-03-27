@@ -1,5 +1,3 @@
-// Completed on 09/01/2024 (Last update on 24/02/2024)
-
 class Solution {
     public int romanToInt(String s) {
         int num = 0, val = 0, previousNum = 0;
