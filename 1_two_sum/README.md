@@ -10,23 +10,23 @@ You can return the answer in any order.
 
 #### Example 1:
 
-__Input:__ nums = [2,7,11,15], target = 9
-__Output:__ [0,1]
-__Explanation:__ Because nums[0] + nums[1] == 9, we return [0,1].
+<s>__Input:__ nums = [2,7,11,15], target = 9</s>
+<s>__Output:__ [0,1]</s>
+<s>__Explanation:__ Because nums[0] + nums[1] == 9, we return [0,1].</s>
 
 #### Example 2:
 
-__Input:__ nums = [3,2,4], target = 6
-__Output:__ [1,2]
+<s>__Input:__ nums = [3,2,4], target = 6</s>
+<s>__Output:__ [1,2]</s>
 
 #### Example 3:
 
-__Input:__ nums = [3,3], target = 6
-__Output:__ [0,1]
+<s>__Input:__ nums = [3,3], target = 6</s>
+<s>__Output:__ [0,1]</s>
 
 #### Constraints:
 
-- 2 <= nums.length <= 10^4
-- -10^9 <= nums[i] <= 10^9
-- -10^9 <= target <= 10^9
+- 2 <= nums.length <= 10<sup>4</sup>
+- -10<sup>9</sup> <= nums[i] <= 10<sup>9</sup>
+- -10<sup>9</sup> <= target <= 10<sup>9</sup>
 - __Only one valid answer exists.__
