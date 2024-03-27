@@ -23,4 +23,4 @@ __Assume the environment does not allow you to store 64-bit integers (signed or 
 
 #### Constraints:
 
-<code>-2<sup>31</sup> <= x <= 2<sup>31</sup> - 1</code>
+-<code>-2<sup>31</sup> <= x <= 2<sup>31</sup> - 1</code>
