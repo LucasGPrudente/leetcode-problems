@@ -3,14 +3,15 @@
 Roman numerals are represented by seven different symbols: <code>I</code>, <code>V</code>, <code>X</code>, 
 <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.
 
-__Symbol__       __Value__
-I             1
-V             5
-X             10
-L             50
-C             100
-D             500
-M             1000
+| Symbol | Value |
+| ----------- | ----------- |
+| I | 1 |
+| V | 5 |
+| X | 10 |
+| L | 50 |
+| C | 100 |
+| D | 500 |
+| M | 1000 |
 
 For example, <code>2</code> is written as <code>II</code> in Roman numeral, just two ones added together. 
 <code>12</code> is written as <code>XII</code>, which is simply <code>X + II</code>. 
