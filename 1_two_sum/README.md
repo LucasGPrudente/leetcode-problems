@@ -16,13 +16,13 @@ You can return the answer in any order.
 
 #### Example 2:
 
-<s>__Input:__ nums = [3,2,4], target = 6</s>
-<s>__Output:__ [1,2]</s>
+> __Input:__ nums = [3,2,4], target = 6  
+> __Output:__ [1,2]  
 
 #### Example 3:
 
-<s>__Input:__ nums = [3,3], target = 6</s>
-<s>__Output:__ [0,1]</s>
+> __Input:__ nums = [3,3], target = 6  
+> __Output:__ [0,1]  
 
 #### Constraints:
 
