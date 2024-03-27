@@ -2,7 +2,7 @@
 
 Easy
 
-Given an integer <code>x</code>, return <code>true</code> *if <code>x</code> is a __palindrome__, and <code>false</code> otherwise*.
+Given an integer <code>x</code>, return <code>true</code> if <code>x</code> is a __palindrome__, and <code>false</code> otherwise.
 
 #### Example 1:
 
