@@ -12,7 +12,7 @@ Given a string <code>s</code>, find the length of the __longest substring__ with
 
 #### Example 2:
 
-Input: s = "bbbbb"  
+> __Input:__ s = "bbbbb"  
 > __Output:__ 1  
 > __Explanation:__ The answer is "b", with the length of 1.  
 
