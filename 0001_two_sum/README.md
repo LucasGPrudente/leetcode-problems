@@ -1,6 +1,6 @@
 ## [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
-Easy
+<code>Easy</code>
 
 Given an array of integers <code>nums</code> and an integer <code>target</code>, return indices of the two numbers such that they add up to <code>target</code>.
 
