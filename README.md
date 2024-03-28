@@ -1,5 +1,5 @@
 # leetcode_problems
-Programming exercises from LeetCode
+Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 
 List of problems:
 |Number|Problem|Code|
