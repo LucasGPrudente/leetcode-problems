@@ -1,8 +1,12 @@
 ## [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
-Medium
+<code>Medium</code>
+
+<br>
 
 Given a string <code>s</code>, find the length of the __longest substring__ without repeating characters.
+
+<br>
 
 #### Example 1:
 
@@ -22,6 +26,8 @@ Given a string <code>s</code>, find the length of the __longest substring__ with
 > __Output:__ 3  
 > __Explanation:__ The answer is "wke", with the length of 3.  
 Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
+
+<br>
 
 #### Constraints:
 
