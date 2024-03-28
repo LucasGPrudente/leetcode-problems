@@ -1,6 +1,7 @@
 # leetcode_problems
-LeetCode exercises
+Programming exercises from LeetCode
 
+List of problems:
 |Number|Problem|Code|
 |-----|-----|-----|
 |1|Two Sum|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0001_two_sum)|
