@@ -1,10 +1,14 @@
 ## [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
-Easy
+<code>Easy</code>
+
+<br>
 
 Write a function to find the longest common prefix string amongst an array of strings.
 
 If there is no common prefix, return an empty string <code>""</code>.
+
+<br>
 
 #### Example 1:
 
@@ -16,6 +20,8 @@ If there is no common prefix, return an empty string <code>""</code>.
 > __Input:__ strs = ["dog","racecar","car"]  
 > __Output:__ ""  
 > __Explanation:__ There is no common prefix among the input strings.  
+
+<br>
 
 #### Constraints:
 
