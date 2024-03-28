@@ -8,6 +8,8 @@ You may assume that each input would have __exactly one solution__, and you may 
 
 You can return the answer in any order.
 
+<br> 
+
 #### Example 1:
 
 > __Input:__ nums = [2,7,11,15], target = 9  
@@ -23,6 +25,8 @@ You can return the answer in any order.
 
 > __Input:__ nums = [3,3], target = 6  
 > __Output:__ [0,1]  
+
+<br>
 
 #### Constraints:
 
