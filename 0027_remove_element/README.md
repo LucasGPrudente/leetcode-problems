@@ -1,18 +1,20 @@
 ## [27. Remove Element](https://leetcode.com/problems/remove-element/)  
 
-Easy
+<code>Easy</code>
+
+<br>
 
 Given an integer array <code>nums</code> and an integer <code>val</code>, remove all occurrences of <code>val</code> in <code>nums</code> __in-place__. The order of the elements may be changed. Then return the number of elements in <code>nums</code> which are not equal to <code>val</code>.
 
 Consider the number of elements in <code>nums</code> which are not equal to <code>val</code> be <code>k</code>, to get accepted, you need to do the following things:
 
-> Change the array <code>nums</code> such that the first <code>k</code> elements of <code>nums</code> contain the elements which are not equal to <code>val</code>. The remaining elements of <code>nums</code> are not important as well as the size of <code>nums</code>.
-> Return <code>k</code>.
+- Change the array <code>nums</code> such that the first <code>k</code> elements of <code>nums</code> contain the elements which are not equal to <code>val</code>. The remaining elements of <code>nums</code> are not important as well as the size of <code>nums</code>.
+- Return <code>k</code>.
 
 #### Custom Judge:
 
-> The judge will test your solution with the following code:
-> 
+The judge will test your solution with the following code:
+
 > ```java
 > int[] nums = [...]; // Input array
 > int val = ...; // Value to remove
@@ -30,6 +32,8 @@ Consider the number of elements in <code>nums</code> which are not equal to <cod
 
 If all assertions pass, then your solution will be __accepted__.
 
+<br>
+
 #### Example 1:
 
 > __Input:__ nums = [3,2,2,3], val = 3  
@@ -44,6 +48,8 @@ If all assertions pass, then your solution will be __accepted__.
 > __Explanation:__ Your function should return k = 5, with the first five elements of nums containing 0, 0, 1, 3, and 4.  
 > Note that the five elements can be returned in any order.  
 > It does not matter what you leave beyond the returned k (hence they are underscores).  
+
+<br>
 
 #### Constraints:
 
