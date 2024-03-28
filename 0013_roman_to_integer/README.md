@@ -1,6 +1,8 @@
 ## [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
-Easy
+<code>Easy</code>
+
+<br>
 
 Roman numerals are represented by seven different symbols: <code>I</code>, <code>V</code>, <code>X</code>, 
 <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.
@@ -29,26 +31,30 @@ The same principle applies to the number nine, which is written as <code>IX</cod
 
 Given a roman numeral, convert it to an integer.
 
+<br>
+
 #### Example 1:
 
 > __Input:__ s = "III"  
 > __Output:__ 3  
-> __Explanation:__ III = 3.
+> __Explanation:__ III = 3. 
 
 #### Example 2:
 
 > __Input:__ s = "LVIII"  
 > __Output:__ 58  
-> __Explanation:__ L = 50, V= 5, III = 3.
+> __Explanation:__ L = 50, V= 5, III = 3. 
 
 #### Example 3:
 
 > __Input:__ s = "MCMXCIV"  
 > __Output:__ 1994  
-> __Explanation:__ M = 1000, CM = 900, XC = 90 and IV = 4.
- 
+> __Explanation:__ M = 1000, CM = 900, XC = 90 and IV = 4. 
+
+<br>
+
 #### Constraints:
 
 - <code>1 <= s.length <= 15</code>
 - <code>s</code> contains only the characters <code>('I', 'V', 'X', 'L', 'C', 'D', 'M')</code>.
-- It is guaranteed that <code>s</code> is a valid roman numeral in the range <code>[1, 3999]</code>.
+- It is __guaranteed__ that <code>s</code> is a valid roman numeral in the range <code>[1, 3999]</code>.
