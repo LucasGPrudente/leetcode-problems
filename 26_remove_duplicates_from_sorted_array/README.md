@@ -24,7 +24,7 @@ well as the size of <code>nums</code>.
 >   
 > assert k == expectedNums.length;  
 > for (int i = 0; i < k; i++) {  
->      assert nums[i] == expectedNums[i];  
+> ##assert nums[i] == expectedNums[i];  
 > }  
 
 If all assertions pass, then your solution will be __accepted__.
