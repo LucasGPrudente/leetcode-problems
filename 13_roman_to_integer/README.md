@@ -1,8 +1,10 @@
 ## [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
+Easy
+
 Roman numerals are represented by seven different symbols: <code>I</code>, <code>V</code>, <code>X</code>, 
 <code>L</code>, <code>C</code>, <code>D</code> and <code>M</code>.
-
+ 
 | Symbol | Value |
 | :----------- | :----------- |
 | I | 1 |
@@ -12,7 +14,7 @@ Roman numerals are represented by seven different symbols: <code>I</code>, <code
 | C | 100 |
 | D | 500 |
 | M | 1000 |
-
+ 
 For example, <code>2</code> is written as <code>II</code> in Roman numeral, just two ones added together. 
 <code>12</code> is written as <code>XII</code>, which is simply <code>X + II</code>. 
 The number <code>27</code> is written as XXVII, which is <code>XX + V + II</code>.
