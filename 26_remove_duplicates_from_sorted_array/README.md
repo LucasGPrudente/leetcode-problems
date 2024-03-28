@@ -24,10 +24,12 @@ well as the size of <code>nums</code>.
 >   
 > assert k == expectedNums.length;  
 > for (int i = 0; i < k; i++) {  
->     assert nums[i] == expectedNums[i];  
+>      assert nums[i] == expectedNums[i];  
 > }  
 
 If all assertions pass, then your solution will be __accepted__.
+      
+      
       
 #### Example 1:
 
@@ -42,6 +44,8 @@ If all assertions pass, then your solution will be __accepted__.
 > __Output:__ 5, nums = [0,1,2,3,4,_,_,_,_,_]  
 > __Explanation:__ Your function should return k = 5, with the first five elements of nums being 0, 1, 2, 3, and 4 respectively.  
 > It does not matter what you leave beyond the returned k (hence they are underscores).
+      
+      
       
 #### Constraints:
 
