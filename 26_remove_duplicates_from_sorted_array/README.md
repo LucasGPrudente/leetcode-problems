@@ -17,7 +17,7 @@ well as the size of <code>nums</code>.
 
 > The judge will test your solution with the following code:  
 
-```javascript
+```java
 int[] nums = [...]; // Input array  
 int[] expectedNums = [...]; // The expected answer with correct length  
  
