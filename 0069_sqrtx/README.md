@@ -1,25 +1,31 @@
 ## [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)
 
-Easy
+<code>Easy</code>
 
-Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be non-negative as well.
+<br>
 
-You must not use any built-in exponent function or operator.
+Given a non-negative integer <code>x</code>, return the square root of <code>x</code> rounded down to the nearest integer. The returned integer should be __non-negative__ as well.
 
-For example, do not use pow(x, 0.5) in c++ or x ** 0.5 in python.
+You __must not use__ any built-in exponent function or operator.
 
-Example 1:
+- For example, do not use <code>pow(x, 0.5)</code> in c++ or <code>x ** 0.5</code> in python.
 
-Input: x = 4
-Output: 2
-Explanation: The square root of 4 is 2, so we return 2.
+<br>
 
-Example 2:
+#### Example 1:
 
-Input: x = 8
-Output: 2
-Explanation: The square root of 8 is 2.82842..., and since we round it down to the nearest integer, 2 is returned.
+> __Input:__ x = 4  
+> __Output:__ 2  
+> __Explanation:__ The square root of 4 is 2, so we return 2.  
 
-Constraints:
+#### Example 2:
 
-0 <= x <= 231 - 1
+> __Input:__ x = 8  
+> __Output:__ 2  
+> __Explanation:__ The square root of 8 is 2.82842..., and since we round it down to the nearest integer, 2 is returned.  
+
+<br>
+
+#### Constraints:
+
+- <code>0 <= x <= 2<sup>31</sup> - 1</code>
