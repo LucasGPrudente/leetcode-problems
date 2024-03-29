@@ -14,3 +14,4 @@ List of problems:
 |26|Remove Duplicates from Sorted Array|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0026_remove_duplicates_from_sorted_array)|
 |27|Remove Element|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0027_remove_element)|
 |28|Find the Index of the First Occurrence in a String|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0028_find_the_index_of_the_first_occurrence_in_a_string)|
+|349|Intersection of Two Arrays|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0349_intersection_of_two_arrays)|
