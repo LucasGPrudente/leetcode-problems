@@ -17,4 +17,5 @@ List of problems:
 |35|Search Insert Position|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0035_search_insert_position)|
 |58|Length of Last Word|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0058_length_of_last_word)|
 |69|Sqrt(x)|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0069_sqrtx)|
+|70|Climbing Stairs|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0070_climbing_stairs)|
 |349|Intersection of Two Arrays|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0349_intersection_of_two_arrays)|
