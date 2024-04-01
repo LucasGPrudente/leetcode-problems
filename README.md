@@ -18,4 +18,6 @@ List of problems:
 |58|Length of Last Word|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0058_length_of_last_word)|
 |69|Sqrt(x)|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0069_sqrtx)|
 |70|Climbing Stairs|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0070_climbing_stairs)|
+|74|Search a 2D Matrix|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0074_search_a_2d_matrix)|
+|88|Merge Sorted Array|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0088_merge_sorted_array)|
 |349|Intersection of Two Arrays|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0349_intersection_of_two_arrays)|
