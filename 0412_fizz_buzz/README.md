@@ -15,18 +15,18 @@ Given an integer <code>n</code>, return a string array <code>answer</code> __(1-
 
 Example 1:
 
-> __Input:__ n = 3
-> __Output:__ ["1","2","Fizz"]
+> __Input:__ n = 3  
+> __Output:__ ["1","2","Fizz"]  
 
 Example 2:
 
-> __Input:__ n = 5
-> __Output:__ ["1","2","Fizz","4","Buzz"]
+> __Input:__ n = 5  
+> __Output:__ ["1","2","Fizz","4","Buzz"]  
 
 Example 3:
 
-> __Input:__ n = 15
-> __Output:__ ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13","14","FizzBuzz"]
+> __Input:__ n = 15  
+> __Output:__ ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13","14","FizzBuzz"]  
 
 <br>
 
