@@ -13,23 +13,23 @@ Given an integer <code>n</code>, return a string array <code>answer</code> __(1-
 
 <br>
 
-Example 1:
+#### Example 1:
 
 > __Input:__ n = 3  
 > __Output:__ ["1","2","Fizz"]  
 
-Example 2:
+#### Example 2:
 
 > __Input:__ n = 5  
 > __Output:__ ["1","2","Fizz","4","Buzz"]  
 
-Example 3:
+#### Example 3:
 
 > __Input:__ n = 15  
 > __Output:__ ["1","2","Fizz","4","Buzz","Fizz","7","8","Fizz","Buzz","11","Fizz","13","14","FizzBuzz"]  
 
 <br>
 
-Constraints:
+#### Constraints:
 
 - <code>1 <= n <= 10<sup>4</sup></code>
