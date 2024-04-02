@@ -23,5 +23,7 @@ List of problems:
 |118|Pascal's Triangle|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0118_pascals_triangle)|
 |151|Reverse Words in a String|Medium|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0151_reverse_words_in_a_string)|
 |349|Intersection of Two Arrays|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0349_intersection_of_two_arrays)|
+|412|Fizz Buzz|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0412_fizz_buzz)|
+|448|Find All Numbers Disappeared in an Array|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0448_find_all_numbers_disappeared_in_an_array)|
 |3065|Minimum Operations to Exceed Threshold Value I|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/3065_minimum_operations_to_exceed_threshold_value_i)|
 |3099|Harshad Number|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/3099_harshad_number)|
