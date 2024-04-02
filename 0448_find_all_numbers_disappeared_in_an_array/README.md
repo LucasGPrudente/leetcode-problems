@@ -4,8 +4,7 @@
 
 <br>
 
-Given an array <code>nums</code> of <code>n</code> integers where <code>nums[i]</code> is in the range <code>[1, n]</code>, return an array of all the integers in the range   
-<code>[1, n]</code> that do not appear in <code>nums</code>.
+Given an array <code>nums</code> of <code>n</code> integers where <code>nums[i]</code> is in the range <code>[1, n]</code>, return an array of all the integers in the range <code>[1, n]</code> that do not appear in <code>nums</code>.
 
 <br>
 
