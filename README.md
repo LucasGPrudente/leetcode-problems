@@ -22,6 +22,7 @@ List of problems:
 |88|Merge Sorted Array|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0088_merge_sorted_array)|
 |118|Pascal's Triangle|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0118_pascals_triangle)|
 |151|Reverse Words in a String|Medium|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0151_reverse_words_in_a_string)|
+|303|Range Sum Query - Immutable|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0303_range_sum_query_immutable)|
 |349|Intersection of Two Arrays|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0349_intersection_of_two_arrays)|
 |412|Fizz Buzz|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0412_fizz_buzz)|
 |448|Find All Numbers Disappeared in an Array|Easy|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0448_find_all_numbers_disappeared_in_an_array)|
