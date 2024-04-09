@@ -1,6 +1,3 @@
-// Return the median of the two sorted arrays
-// Completed on 05/02/2024 (Last update on 24/02/2024)
-
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int sz1 = nums1.length, sz2 = nums2.length, sz3 = sz1 + sz2;
