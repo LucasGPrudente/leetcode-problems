@@ -18,5 +18,5 @@ var findMedianSortedArrays = function (nums1, nums2) {
 
     if (lgth3 % 2 != 0) return mergedArr[parseInt(lgth3 / 2)];
 
-    return (mergedArr[lgth3 / 2] + mergedArr[(lgth3 / 2) - 1]) / 2;
+    return (mergedArr[parseInt(lgth3 / 2)] + mergedArr[parseInt((lgth3 / 2) - 1)]) / 2;
 };
