@@ -26,6 +26,7 @@ List of problems:
 |303|Range Sum Query - Immutable|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0303_range_sum_query_immutable)|
 |349|Intersection of Two Arrays|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0349_intersection_of_two_arrays)|
 |412|Fizz Buzz|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0412_fizz_buzz)|
+|442|Find All Duplicates in an Array|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0442_find_all_duplicates_in_an_array)|
 |448|Find All Numbers Disappeared in an Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0448_find_all_numbers_disappeared_in_an_array)|
 |495|Teemo Attacking|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0495_teemo_attacking)|
 |657|Robot Return to Origin|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0657_robot_return_to_origin)|
