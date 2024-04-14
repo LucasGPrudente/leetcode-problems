@@ -36,6 +36,9 @@ List of problems:
 |709|To Lower Case|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0709_to_lower_case)|
 |771|Jewels and Stones|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0771_jewels_and_stones)|
 |896|Monotonic Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0896_monotonic_array)|
+|1137|N-th Tribonacci Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/1137-n-th-tribonacci-number)|
+|1342|Number of Steps to Reduce a Number to Zero|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero)|
+|1402|Reducing Dishes|${\textsf{\color{IndianRed}Hard}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/1402-reducing-dishes)|
 |1700|Number of Students Unable to Eat Lunch|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/1700_number_of_students_unable_to_eat_lunch)|
 |2073|Time Needed to Buy Tickets|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/2073_time_needed_to_buy_tickets)|
 |3065|Minimum Operations to Exceed Threshold Value I|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/3065_minimum_operations_to_exceed_threshold_value_i)|
