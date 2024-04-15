@@ -40,6 +40,8 @@ List of problems:
 |1342|Number of Steps to Reduce a Number to Zero|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero)|
 |1402|Reducing Dishes|${\textsf{\color{IndianRed}Hard}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/1402-reducing-dishes)|
 |1431|Kids With the Greatest Number of Candies|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1431-kids-with-the-greatest-number-of-candies)|
+|1470|Shuffle the Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1470-shuffle-the-array)|
+|1512|Number of Good Pairs|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1512-number-of-good-pairs)|
 |1700|Number of Students Unable to Eat Lunch|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch)|
 |2073|Time Needed to Buy Tickets|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2073-time-needed-to-buy-tickets)|
 |3065|Minimum Operations to Exceed Threshold Value I|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3065-minimum-operations-to-exceed-threshold-value-i)|
