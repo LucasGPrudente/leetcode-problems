@@ -15,7 +15,7 @@ List of problems:
 |26|Remove Duplicates from Sorted Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array)|
 |27|Remove Element|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0027-remove-element)|
 |28|Find the Index of the First Occurrence in a String|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string)|
-|35|Search Insert Position|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0035_search_insert_position)|
+|35|Search Insert Position|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0035-search-insert-position)|
 |58|Length of Last Word|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0058_length_of_last_word)|
 |69|Sqrt(x)|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0069_sqrtx)|
 |70|Climbing Stairs|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0070_climbing_stairs)|
