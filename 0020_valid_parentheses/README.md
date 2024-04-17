@@ -1,6 +1,6 @@
 ## [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
-<code>Easy</code>
+<code>Easy</code> <code>String</code> <code>Stack</code>
 
 <br>
 
@@ -17,17 +17,20 @@ An input string is valid if:
 
 #### Example 1:
 
-> __Input:__ s = "()"
+> __Input:__ s = "( )"
+> 
 > __Output:__ true
 
 #### Example 2:
 
-> __Input:__ s = "()[]{}"
+> __Input:__ s = "( )[ ]{ }"
+> 
 > __Output:__ true
 
 #### Example 3:
 
-> __Input:__ s = "(]"
+> __Input:__ s = "( ]"
+> 
 > __Output:__ false
 
 <br>
