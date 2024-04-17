@@ -16,9 +16,9 @@ List of problems:
 |27|Remove Element|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0027-remove-element)|
 |28|Find the Index of the First Occurrence in a String|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string)|
 |35|Search Insert Position|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0035-search-insert-position)|
-|58|Length of Last Word|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0058_length_of_last_word)|
-|69|Sqrt(x)|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0069_sqrtx)|
-|70|Climbing Stairs|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0070_climbing_stairs)|
+|58|Length of Last Word|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0058-length-of-last-word)|
+|69|Sqrt(x)|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0069-sqrtx)|
+|70|Climbing Stairs|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0070-climbing-stairs)|
 |74|Search a 2D Matrix|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0074_search_a_2d_matrix)|
 |88|Merge Sorted Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0088_merge_sorted_array)|
 |118|Pascal's Triangle|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0118_pascals_triangle)|
