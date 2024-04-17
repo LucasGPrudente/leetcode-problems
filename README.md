@@ -11,10 +11,10 @@ List of problems:
 |9|Palindrome Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0009-palindrome-number)|
 |13|Roman to Integer|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0013-roman-to-integer)|
 |14|Longest Common Prefix|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0014-longest-common-prefix)|
-|20|Valid Parentheses|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0020_valid_parentheses)|
-|26|Remove Duplicates from Sorted Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0026_remove_duplicates_from_sorted_array)|
-|27|Remove Element|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0027_remove_element)|
-|28|Find the Index of the First Occurrence in a String|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0028_find_the_index_of_the_first_occurrence_in_a_string)|
+|20|Valid Parentheses|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0020-valid-parentheses)|
+|26|Remove Duplicates from Sorted Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array)|
+|27|Remove Element|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0027-remove-element)|
+|28|Find the Index of the First Occurrence in a String|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string)|
 |35|Search Insert Position|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0035_search_insert_position)|
 |58|Length of Last Word|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0058_length_of_last_word)|
 |69|Sqrt(x)|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0069_sqrtx)|
