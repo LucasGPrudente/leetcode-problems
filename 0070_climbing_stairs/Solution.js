@@ -1,5 +1,7 @@
 var climbStairs = function (n) {
-    if (n <= 2) return n;
+    if (n <= 2) {
+        return n;
+    }
 
     let ways = 0;
     let sequence = [1, 2];
