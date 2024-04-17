@@ -4,7 +4,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 List of problems:
 |Number|Problem|Difficulty|Code|
 |-----|-----|-----|-----|
-|1|Two Sum|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0001_two_sum)|
+|1|Two Sum|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0001-two-sum)|
 |3|Longest Substring Without Repeating Characters|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0003_longest_substring_without_repeating_characters)|
 |4|Median of Two Sorted Arrays|${\textsf{\color{IndianRed}Hard}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0004_median_of_two_sorted_arrays)|
 |7|Reverse Integer|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0007_reverse_integer)|
