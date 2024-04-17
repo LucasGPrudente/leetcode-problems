@@ -1,6 +1,6 @@
 ## [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 
-<code>Easy</code>
+<code>Easy</code> <code>String</code> <code>Trie</code>
 
 <br>
 
@@ -12,13 +12,16 @@ If there is no common prefix, return an empty string <code>""</code>.
 
 #### Example 1:
 
-> __Input:__ strs = ["flower","flow","flight"]  
+> __Input:__ strs = ["flower","flow","flight"]
+> 
 > __Output:__ "fl"  
 
 #### Example 2:
 
-> __Input:__ strs = ["dog","racecar","car"]  
-> __Output:__ ""  
+> __Input:__ strs = ["dog","racecar","car"]
+> 
+> __Output:__ ""
+> 
 > __Explanation:__ There is no common prefix among the input strings.  
 
 <br>
