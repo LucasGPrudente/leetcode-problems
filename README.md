@@ -46,3 +46,6 @@ List of problems:
 |2073|Time Needed to Buy Tickets|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2073-time-needed-to-buy-tickets)|
 |3065|Minimum Operations to Exceed Threshold Value I|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3065-minimum-operations-to-exceed-threshold-value-i)|
 |3099|Harshad Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3099-harshad-number)|
+|3110|Score of a String|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3110-score-of-a-string)|
+|3114|Latest Time You Can Obtain After Replacing Characters|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters)|
+|3115|Maximum Prime Difference|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3115-maximum-prime-difference)|
