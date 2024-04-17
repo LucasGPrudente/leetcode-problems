@@ -1,13 +1,13 @@
 var findLatestTime = function (s) {
-    let hour = s.split("");
+    let ans = s.split("");
 
-    if (hour[0] == '?') { hour[0] = (hour[1] <= 1 || hour[1] == '?') ? 1 : 0; }
+    if (ans[0] == '?') { ans[0] = (ans[1] <= 1 || ans[1] == '?') ? 1 : 0; }
 
-    if (hour[1] == '?') { hour[1] = (hour[0] == 1) ? 1 : 9; }
+    if (ans[1] == '?') { ans[1] = (ans[0] == 1) ? 1 : 9; }
 
-    if (hour[3] == '?') { hour[3] = 5; }
+    if (ans[3] == '?') { ans[3] = 5; }
 
-    if (hour[4] == '?') { hour[4] = 9; }
+    if (ans[4] == '?') { ans[4] = 9; }
 
-    return hour.join("");
+    return ans.join("");
 };
