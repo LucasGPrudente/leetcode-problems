@@ -7,10 +7,10 @@ List of problems:
 |1|Two Sum|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0001-two-sum)|
 |3|Longest Substring Without Repeating Characters|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters)|
 |4|Median of Two Sorted Arrays|${\textsf{\color{IndianRed}Hard}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0004-median-of-two-sorted-arrays)|
-|7|Reverse Integer|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0007_reverse_integer)|
-|9|Palindrome Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0009_palindrome_number)|
-|13|Roman to Integer|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0013_roman_to_integer)|
-|14|Longest Common Prefix|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0014_longest_common_prefix)|
+|7|Reverse Integer|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0007-reverse-integer)|
+|9|Palindrome Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0009-palindrome-number)|
+|13|Roman to Integer|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0013-roman-to-integer)|
+|14|Longest Common Prefix|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0014-longest-common-prefix)|
 |20|Valid Parentheses|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0020_valid_parentheses)|
 |26|Remove Duplicates from Sorted Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0026_remove_duplicates_from_sorted_array)|
 |27|Remove Element|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0027_remove_element)|
