@@ -5,8 +5,8 @@ List of problems:
 |Number|Problem|Difficulty|Code|
 |-----|-----|-----|-----|
 |1|Two Sum|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0001-two-sum)|
-|3|Longest Substring Without Repeating Characters|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0003_longest_substring_without_repeating_characters)|
-|4|Median of Two Sorted Arrays|${\textsf{\color{IndianRed}Hard}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0004_median_of_two_sorted_arrays)|
+|3|Longest Substring Without Repeating Characters|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0003-longest-substring-without-repeating-characters)|
+|4|Median of Two Sorted Arrays|${\textsf{\color{IndianRed}Hard}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0004-median-of-two-sorted-arrays)|
 |7|Reverse Integer|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0007_reverse_integer)|
 |9|Palindrome Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0009_palindrome_number)|
 |13|Roman to Integer|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0013_roman_to_integer)|
