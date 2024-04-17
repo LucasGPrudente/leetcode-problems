@@ -1,6 +1,8 @@
 class Solution {
     public int romanToInt(String s) {
-        int num = 0, val = 0, previousNum = 0;
+        int num = 0; 
+        int val = 0; 
+        int previousNum = 0;
 
         for (int x = s.length() - 1; x >= 0; x--) {
             switch (s.charAt(x)) {
