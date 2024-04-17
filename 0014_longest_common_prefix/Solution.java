@@ -1,28 +1,26 @@
-class Solution {
-    public String longestCommonPrefix(String[] strs) {
-        int minLength = strs[0].length();
+var longestCommonPrefix = function (strs) {
+    let prefix = "";
+    let arrLen = strs.length;
+    let minLen = strs[0].length;
 
-        for (String str : strs) {
-            if (str.length() < minLength) {
-                minLength = str.length();
+    for (let str of strs) {
+        if (str.length < minLen) {
+            minLen = str.length;
+        }
+    }
+
+    outerloop:
+        for (let i = 0; i < minLen; i++) {
+            let char = strs[0].charAt(i);
+
+            for (let j = 0; j < arrLen; j++) {
+                if (strs[j].charAt(i) != char) {
+                    break outerloop;
+                }
             }
+
+            prefix += char;
         }
 
-        StringBuilder prefix = new StringBuilder("");
-
-        outerloop: 
-            for (int i = 0; i < minLength; i++) {
-                char letter = strs[0].charAt(i);
-
-                for (int j = 0; j < strs.length; j++) {
-                    if (strs[j].charAt(i) != letter) {
-                        break outerloop;
-                    }
-                }
-
-                prefix.append(letter);
-            }
-
-        return prefix.toString();
-    }
-}
+    return prefix;
+};
