@@ -1,6 +1,6 @@
 ## [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 
-<code>Easy</code>
+<code>Easy</code> <code>Array</code> <code>Binary Search</code> 
 
 <br>
 
@@ -12,17 +12,20 @@ You must write an algorithm with <code>O(log n)</code> runtime complexity.
 
 #### Example 1:
 
-> __Input:__ nums = [1,3,5,6], target = 5  
+> __Input:__ nums = [1,3,5,6], target = 5
+> 
 > __Output:__ 2  
 
 #### Example 2:
 
-> __Input:__ nums = [1,3,5,6], target = 2  
+> __Input:__ nums = [1,3,5,6], target = 2
+>  
 > __Output:__ 1  
 
 #### Example 3:
 
-> __Input:__ nums = [1,3,5,6], target = 7  
+> __Input:__ nums = [1,3,5,6], target = 7
+> 
 > __Output:__ 4  
 
 <br>
