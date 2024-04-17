@@ -19,7 +19,7 @@ List of problems:
 |58|Length of Last Word|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0058-length-of-last-word)|
 |69|Sqrt(x)|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0069-sqrtx)|
 |70|Climbing Stairs|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0070-climbing-stairs)|
-|74|Search a 2D Matrix|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/blob/main/0074-search-a-2d-matrix/Solution.java)|
+|74|Search a 2D Matrix|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0074-search-a-2d-matrix)|
 |88|Merge Sorted Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0088_merge_sorted_array)|
 |118|Pascal's Triangle|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0118_pascals_triangle)|
 |151|Reverse Words in a String|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0151_reverse_words_in_a_string)|
