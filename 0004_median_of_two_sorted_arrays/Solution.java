@@ -5,8 +5,11 @@ class Solution {
         int i = 0, j = 0, k = 0;
 
         while (i < sz1 && j < sz2) {
-            if (nums1[i] < nums2[j]) mergedArr[k++] = nums1[i++];
-            else mergedArr[k++] = nums2[j++];
+            if (nums1[i] < nums2[j]) {
+                mergedArr[k++] = nums1[i++];
+            } else {
+                mergedArr[k++] = nums2[j++];
+            }
         }
 
         while (i < sz1) {
@@ -17,7 +20,9 @@ class Solution {
             mergedArr[k++] = nums2[j++];
         }
 
-        if (sz3 % 2 != 0) return (double) mergedArr[sz3 / 2];
+        if (sz3 % 2 != 0){
+            return (double) mergedArr[sz3 / 2];
+        }   
 
         return (double) (mergedArr[(sz3 / 2) - 1] + mergedArr[sz3 / 2]) / 2;
     }
