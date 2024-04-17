@@ -1,6 +1,6 @@
 ## [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
-<code>Hard</code>
+<code>Hard</code> <code>Array</code> <code>Binary Search</code> <code>Divide and Conquer</code>
 
 <br>
 
@@ -12,14 +12,18 @@ The overall run time complexity should be <code>O(log (m+n))</code>.
 
 #### Example 1:
 
-> __Input:__ nums1 = [1,3], nums2 = [2]  
-> __Output:__ 2.00000  
+> __Input:__ nums1 = [1,3], nums2 = [2]
+> 
+> __Output:__ 2.00000
+> 
 > __Explanation:__ merged array = [1,2,3] and median is 2.  
 
 #### Example 2:
 
-> __Input:__ nums1 = [1,2], nums2 = [3,4]  
-> __Output:__ 2.50000  
+> __Input:__ nums1 = [1,2], nums2 = [3,4]
+> 
+> __Output:__ 2.50000
+> 
 > __Explanation:__ merged array = [1,2,3,4] and median is (2 + 3) / 2 = 2.5.  
 
 <br>
