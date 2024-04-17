@@ -1,6 +1,6 @@
 ## [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
-<code>Easy</code>
+<code>Easy</code> <code>Hash Table</code> <code>Math</code> <code>String</code>
 
 <br>
 
@@ -35,20 +35,26 @@ Given a roman numeral, convert it to an integer.
 
 #### Example 1:
 
-> __Input:__ s = "III"  
-> __Output:__ 3  
+> __Input:__ s = "III"
+> 
+> __Output:__ 3
+> 
 > __Explanation:__ III = 3. 
 
 #### Example 2:
 
-> __Input:__ s = "LVIII"  
-> __Output:__ 58  
+> __Input:__ s = "LVIII"
+> 
+> __Output:__ 58
+> 
 > __Explanation:__ L = 50, V= 5, III = 3. 
 
 #### Example 3:
 
-> __Input:__ s = "MCMXCIV"  
-> __Output:__ 1994  
+> __Input:__ s = "MCMXCIV"
+> 
+> __Output:__ 1994
+> 
 > __Explanation:__ M = 1000, CM = 900, XC = 90 and IV = 4. 
 
 <br>
