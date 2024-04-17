@@ -3,10 +3,10 @@ class Solution {
         int x = 0;
 
         while (x < nums.length) {
-            if (target == nums[x] || target < nums[x]) {
+            if (nums[x] == target || nums[x] > target) {
                 return x;
             }
-
+            
             x++;
         }
 
