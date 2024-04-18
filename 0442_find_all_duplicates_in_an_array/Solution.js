@@ -8,7 +8,9 @@ var findDuplicates = function (nums) {
     });
 
     freq.forEach((n, i) => {
-        if (n > 1) duplicatedNums.push(i);
+        if (n > 1) {
+            duplicatedNums.push(i);
+        }
     });
 
     return duplicatedNums;
