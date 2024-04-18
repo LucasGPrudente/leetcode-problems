@@ -1,6 +1,6 @@
 ## [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 
-<code>Easy</code>
+<code>Easy</code> <code>Array</code> <code>Design</code> <code>Prefix Sum</code> 
 
 <br>
 
@@ -19,9 +19,11 @@ Implement the NumArray class:
 
 > __Input__  
 > ["NumArray", "sumRange", "sumRange", "sumRange"]  
-> [[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]  
+> [[[-2, 0, 3, -5, 2, -1]], [0, 2], [2, 5], [0, 5]]
+> 
 > __Output__  
-> [null, 1, -1, -3]  
+> [null, 1, -1, -3]
+> 
 > __Explanation__  
 > NumArray numArray = new NumArray([-2, 0, 3, -5, 2, -1]);  
 > numArray.sumRange(0, 2); // return (-2) + 0 + 3 = 1  
