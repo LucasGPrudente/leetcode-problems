@@ -9,7 +9,10 @@ class Solution {
 
         int i = 0;
         for (int n : temp) {
-            if (n > 1) duplicatesNums.add(i);
+            if (n > 1) {
+                duplicatesNums.add(i);
+            }
+
             i++;
         }
 
