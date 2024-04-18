@@ -8,7 +8,9 @@ class Solution {
         }
 
         for (int x = 1; x <= nums.length; x++) {
-            if (temp[x] == 0) ans.add(x);
+            if (temp[x] == 0) {
+                ans.add(x);
+            }
         }
 
         return ans;
