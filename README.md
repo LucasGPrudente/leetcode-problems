@@ -1,7 +1,9 @@
 # leetcode_problems
 Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 
-List of problems:
+<br>
+
+### List of Problems
 |Number|Problem|Difficulty|Code|
 |-----|-----|-----|-----|
 |1|Two Sum|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0001-two-sum)|
