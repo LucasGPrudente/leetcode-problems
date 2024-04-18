@@ -27,9 +27,9 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |151|Reverse Words in a String|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0151-reverse-words-in-a-string)|
 |303|Range Sum Query - Immutable|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0303-range-sum-query-immutable)|
 |349|Intersection of Two Arrays|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0349-intersection-of-two-arrays)|
-|412|Fizz Buzz|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0412_fizz_buzz)|
-|442|Find All Duplicates in an Array|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0442_find_all_duplicates_in_an_array)|
-|448|Find All Numbers Disappeared in an Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0448_find_all_numbers_disappeared_in_an_array)|
+|412|Fizz Buzz|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0412-fizz-buzz)|
+|442|Find All Duplicates in an Array|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array)|
+|448|Find All Numbers Disappeared in an Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array)|
 |463|Island Perimeter|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0463-island-perimeter)|
 |495|Teemo Attacking|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0495_teemo_attacking)|
 |509|Fibonacci Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0509_fibonacci_number)|
