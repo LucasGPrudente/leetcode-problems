@@ -14,7 +14,7 @@ var generate = function (numRows) {
             currRow.push(lastRow[j] + lastRow[j - 1]);
         }
 
-        lastRow = currRow.slice();
+        lastRow = currRow;
         triangle.push(currRow);
     }
 
