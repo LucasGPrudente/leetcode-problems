@@ -25,8 +25,8 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |88|Merge Sorted Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0088-merge-sorted-array)|
 |118|Pascal's Triangle|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0118-pascals-triangle)|
 |151|Reverse Words in a String|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0151-reverse-words-in-a-string)|
-|303|Range Sum Query - Immutable|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0303_range_sum_query_immutable)|
-|349|Intersection of Two Arrays|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0349_intersection_of_two_arrays)|
+|303|Range Sum Query - Immutable|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0303-range-sum-query-immutable)|
+|349|Intersection of Two Arrays|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0349-intersection-of-two-arrays)|
 |412|Fizz Buzz|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0412_fizz_buzz)|
 |442|Find All Duplicates in an Array|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0442_find_all_duplicates_in_an_array)|
 |448|Find All Numbers Disappeared in an Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0448_find_all_numbers_disappeared_in_an_array)|
