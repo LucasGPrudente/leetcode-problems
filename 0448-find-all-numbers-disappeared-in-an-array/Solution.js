@@ -7,7 +7,9 @@ var findDisappearedNumbers = function (nums) {
     }
 
     for (let i = 1; i < temp.length; i++) {
-        if (temp[i] == 0) ans.push(i);
+        if (temp[i] == 0) {
+            ans.push(i);
+        }
     }
 
     return ans;
