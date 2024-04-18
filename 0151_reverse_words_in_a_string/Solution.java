@@ -1,16 +1,19 @@
 class Solution {
-    public String reverseWords(String s) {
-        String phase = s.trim().replaceAll(" +", " ");
-
+    public String reverseWords(String str) {
+        String phase = str.trim().replaceAll(" +", " ");
         String[] words = phase.split(" ");
-        String[] reverseWords = new String[words.length];
 
-        for (int x = words.length - 1, z = 0; x >= 0; x--, z++) {
-            reverseWords[z] = words[x];
+        int s = 0;
+        int e = words.length - 1;
+        while (s < e) {
+            String temp = words[s];
+            words[s] = words[e];
+            words[e] = temp;
+
+            s++;
+            e--;
         }
 
-        String reversePhase = String.join(" ", reverseWords);
-
-        return reversePhase;
+        return String.join(" ", words);
     }
 }
