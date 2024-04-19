@@ -48,6 +48,8 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |1700|Number of Students Unable to Eat Lunch|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch)|
 |2073|Time Needed to Buy Tickets|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2073-time-needed-to-buy-tickets)|
 |3065|Minimum Operations to Exceed Threshold Value I|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3065-minimum-operations-to-exceed-threshold-value-i)|
+|3074|Apple Redistribution into Boxes|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3074-apple-redistribution-into-boxes)|
+|3079|Find the Sum of Encrypted Integers|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3079-find-the-sum-of-encrypted-integers)|
 |3099|Harshad Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3099-harshad-number)|
 |3110|Score of a String|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3110-score-of-a-string)|
 |3114|Latest Time You Can Obtain After Replacing Characters|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters)|
