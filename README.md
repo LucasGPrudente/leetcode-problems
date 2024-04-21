@@ -18,6 +18,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |27|Remove Element|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0027-remove-element)|
 |28|Find the Index of the First Occurrence in a String|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string)|
 |35|Search Insert Position|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0035-search-insert-position)|
+|38|Count and Say|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0038-count-and-say)|
 |58|Length of Last Word|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0058-length-of-last-word)|
 |69|Sqrt(x)|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0069-sqrtx)|
 |70|Climbing Stairs|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0070-climbing-stairs)|
@@ -47,6 +48,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |1512|Number of Good Pairs|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1512-number-of-good-pairs)|
 |1700|Number of Students Unable to Eat Lunch|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch)|
 |2073|Time Needed to Buy Tickets|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2073-time-needed-to-buy-tickets)|
+|3000|Maximum Area of Longest Diagonal Rectangle|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3000-maximum-area-of-longest-diagonal-rectangle)|
 |3065|Minimum Operations to Exceed Threshold Value I|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3065-minimum-operations-to-exceed-threshold-value-i)|
 |3074|Apple Redistribution into Boxes|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3074-apple-redistribution-into-boxes)|
 |3079|Find the Sum of Encrypted Integers|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3079-find-the-sum-of-encrypted-integers)|
