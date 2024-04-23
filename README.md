@@ -39,6 +39,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |1431|Kids With the Greatest Number of Candies|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1431-kids-with-the-greatest-number-of-candies)|
 |1470|Shuffle the Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1470-shuffle-the-array)|
 |1512|Number of Good Pairs|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1512-number-of-good-pairs)|
+|1678|Goal Parser Interpretation|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1678-goal-parser-interpretation)|
 |1700|Number of Students Unable to Eat Lunch|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch)|
 |1720|Decode XORed Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1720-decode-xored-array)|
 |1732|Find the Highest Altitude|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1732-find-the-highest-altitude)|
@@ -47,6 +48,8 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |1859|Sorting the Sentence|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1859-sorting-the-sentence)|
 |1920|Build Array from Permutation|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1920-build-array-from-permutation)|
 |2073|Time Needed to Buy Tickets|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2073-time-needed-to-buy-tickets)|
+|2235|Add Two Integers|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2235-add-two-integers)|
+|2413|Smallest Even Multiple|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2413-smallest-even-multiple)|
 |3000|Maximum Area of Longest Diagonal Rectangle|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3000-maximum-area-of-longest-diagonal-rectangle)|
 |3065|Minimum Operations to Exceed Threshold Value I|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3065-minimum-operations-to-exceed-threshold-value-i)|
 |3074|Apple Redistribution into Boxes|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3074-apple-redistribution-into-boxes)|
