@@ -2,7 +2,7 @@
 
 class Solution {
     public boolean isStrictlyPalindromic(int n) {
-        for (int i = 2; i < n; i++) {
+        for (int i = 2; i <= n - 2; i++) {
             StringBuilder num = new StringBuilder(Integer.toString(n, i));
 
             if (num.compareTo(num.reverse()) == 0) {
