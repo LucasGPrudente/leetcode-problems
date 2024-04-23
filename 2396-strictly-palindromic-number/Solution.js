@@ -6,7 +6,7 @@
  */
 
 var isStrictlyPalindromic = function (n) {
-    for (let b = 2; b <= n; b++) {
+    for (let b = 2; b <= n - 2; b++) {
         let orig = n.toString(b);
         let rev = orig.split("").reverse().join("");
 
