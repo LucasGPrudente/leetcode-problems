@@ -40,7 +40,9 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |1470|Shuffle the Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1470-shuffle-the-array)|
 |1512|Number of Good Pairs|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1512-number-of-good-pairs)|
 |1700|Number of Students Unable to Eat Lunch|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch)|
+|1720|Decode XORed Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1720-decode-xored-array)|
 |1732|Find the Highest Altitude|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1732-find-the-highest-altitude)|
+|1768|Merge Strings Alternately|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1768-merge-strings-alternately)|
 |1832|Check if the Sentence Is Pangram|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1832-check-if-the-sentence-is-pangram)|
 |1859|Sorting the Sentence|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1859-sorting-the-sentence)|
 |1920|Build Array from Permutation|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1920-build-array-from-permutation)|
