@@ -1,19 +1,15 @@
 // Return true if n is strictly palindromic and false otherwise
 
-/**
- * @param {number} n
- * @return {boolean}
- */
+class Solution {
+    public boolean isStrictlyPalindromic(int n) {
+        for (int i = 2; i <= n - 2; i++) {
+            StringBuilder num = new StringBuilder(Integer.toString(n, i));
 
-var isStrictlyPalindromic = function (n) {
-    for (let b = 2; b <= n - 2; b++) {
-        let orig = n.toString(b);
-        let rev = orig.split("").reverse().join("");
-
-        if (orig != rev) {
-            return false;
+            if (num.compareTo(num.reverse()) == 0) {
+                return false;
+            }
         }
-    }
 
-    return true;
-};
+        return true;
+    }
+}
