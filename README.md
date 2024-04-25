@@ -69,6 +69,8 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |74|Search a 2D Matrix|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0074-search-a-2d-matrix)|
 |151|Reverse Words in a String|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0151-reverse-words-in-a-string)|
 |442|Find All Duplicates in an Array|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0442-find-all-duplicates-in-an-array)|
+|665|Non-decreasing Array|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0665-non-decreasing-array)|
+|841|Keys and Rooms|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0841-keys-and-rooms)|
 |2396|Strictly Palindromic Number|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2396-strictly-palindromic-number)|
 |3115|Maximum Prime Difference|${\textsf{\color{Dandelion}Medium}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3115-maximum-prime-difference)|
 
