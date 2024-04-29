@@ -1,3 +1,5 @@
+// Return the area of the rectangle having the longest diagonal
+
 class Solution {
     public int areaOfMaxDiagonal(int[][] dim) {
         double longDiag = 0;
