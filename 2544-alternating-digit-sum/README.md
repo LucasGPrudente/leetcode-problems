@@ -41,4 +41,4 @@ Example 3:
 
 Constraints:
 
--<code> 1 <= n <= 10<sup>9</sup></code>
+- <code> 1 <= n <= 10<sup>9</sup></code>
