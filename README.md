@@ -25,15 +25,15 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |412|Fizz Buzz|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0412-fizz-buzz)|
 |448|Find All Numbers Disappeared in an Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array)|
 |463|Island Perimeter|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0463-island-perimeter)|
-|495|Teemo Attacking|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0495_teemo_attacking)|
-|509|Fibonacci Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0509_fibonacci_number)|
-|520|Detect Capital|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0520_detect_capital)|
-|657|Robot Return to Origin|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0657_robot_return_to_origin)|
-|704|Binary Search|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0704_binary_search)|
-|709|To Lower Case|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0709_to_lower_case)|
-|771|Jewels and Stones|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0771_jewels_and_stones)|
+|495|Teemo Attacking|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0495-teemo-attacking)|
+|509|Fibonacci Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0509-fibonacci-number)|
+|520|Detect Capital|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0520-detect-capital)|
+|657|Robot Return to Origin|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0657-robot-return-to-origin)|
+|704|Binary Search|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0704-binary-search)|
+|709|To Lower Case|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0709-to-lower-case)|
+|771|Jewels and Stones|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0771-jewels-and-stones)|
 |867|Transpose Matrix|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0867-transpose-matrix)|
-|896|Monotonic Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/0896_monotonic_array)|
+|896|Monotonic Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0896-monotonic-array)|
 |1137|N-th Tribonacci Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/1137-n-th-tribonacci-number)|
 |1342|Number of Steps to Reduce a Number to Zero|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero)|
 |1431|Kids With the Greatest Number of Candies|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1431-kids-with-the-greatest-number-of-candies)|
