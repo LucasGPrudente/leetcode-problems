@@ -1,6 +1,6 @@
 ## [2073. Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/)
 
-<code>Easy</code>
+<code>Easy</code> <code>Array</code> <code>Queue</code> <code>Simulation</code>
 
 <br>
 
@@ -10,14 +10,16 @@ You are given a __0-indexed__ integer array <code>tickets</code> of length <code
 
 Each person takes __exactly 1 second__ to buy a ticket. A person can only buy __1 ticket at a time__ and has to go back to __the end__ of the line (which happens __instantaneously__) in order to buy more tickets. If a person does not have any tickets left to buy, the person will __leave__ the line.
 
-Return the __time taken__ for the person at position <code>k</code> __(0-indexed)__ to finish buying tickets.
+Return *the __time taken__ for the person at position* <code>k</code> *__(0-indexed)__ to finish buying tickets*.
 
 <br>
 
 #### Example 1:
 
-> __Input:__ tickets = [2,3,2], k = 2  
-> __Output:__ 6  
+> __Input:__ tickets = [2,3,2], k = 2
+> 
+> __Output:__ 6
+> 
 > __Explanation:__   
 > - In the first pass, everyone in the line buys a ticket and the line becomes [1, 2, 1].  
 > - In the second pass, everyone in the line buys a ticket and the line becomes [0, 1, 0].  
@@ -25,9 +27,11 @@ Return the __time taken__ for the person at position <code>k</code> __(0-indexed
 
 #### Example 2:
 
-> __Input:__ tickets = [5,1,1,1], k = 0  
-> __Output:__ 8  
-> __Explanation:__  
+> __Input:__ tickets = [5,1,1,1], k = 0
+> 
+> __Output:__ 8
+> 
+> __Explanation:__
 > - In the first pass, everyone in the line buys a ticket and the line becomes [4, 0, 0, 0].  
 > - In the next 4 passes, only the person in position 0 is buying tickets.  
 > - The person at position 0 has successfully bought 5 tickets and it took 4 + 1 + 1 + 1 + 1 = 8 seconds.  
