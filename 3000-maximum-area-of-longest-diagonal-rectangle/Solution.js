@@ -1,3 +1,10 @@
+// Return the area of the rectangle having the longest diagonal
+
+/**
+ * @param {number[][]} dimensions
+ * @return {number}
+ */
+
 var areaOfMaxDiagonal = function (dimensions) {
     let longDiag = 0;
     let maxArea = 0;
