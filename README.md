@@ -47,10 +47,35 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |1832|Check if the Sentence Is Pangram|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1832-check-if-the-sentence-is-pangram)|
 |1859|Sorting the Sentence|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1859-sorting-the-sentence)|
 |1920|Build Array from Permutation|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1920-build-array-from-permutation)|
+|2000|Reverse Prefix of Word|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2000-reverse-prefix-of-word)|
 |2073|Time Needed to Buy Tickets|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2073-time-needed-to-buy-tickets)|
+|2108|Find First Palindromic String in the Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2108-find-first-palindromic-string-in-the-array)|
+|2114|Maximum Number of Words Found in Sentences|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2114-maximum-number-of-words-found-in-sentences)|
 |2235|Add Two Integers|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2235-add-two-integers)|
+|2293|Min Max Game|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2293-min-max-game)|
 |2413|Smallest Even Multiple|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2413-smallest-even-multiple)|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
+|||${\textsf{\color{Lightgreen}Easy}}$|[View]()|
 |3000|Maximum Area of Longest Diagonal Rectangle|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3000-maximum-area-of-longest-diagonal-rectangle)|
+|3005|Count Elements With Maximum Frequency|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency)|
 |3065|Minimum Operations to Exceed Threshold Value I|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3065-minimum-operations-to-exceed-threshold-value-i)|
 |3074|Apple Redistribution into Boxes|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3074-apple-redistribution-into-boxes)|
 |3079|Find the Sum of Encrypted Integers|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3079-find-the-sum-of-encrypted-integers)|
