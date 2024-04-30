@@ -1,6 +1,6 @@
 ## [495. Teemo Attacking](https://leetcode.com/problems/teemo-attacking/)
 
-<code>Easy</code>
+<code>Easy</code> <code>Array</code> <code>Simulation</code>
 
 <br>
 
@@ -8,14 +8,16 @@ Our hero Teemo is attacking an enemy Ashe with poison attacks! When Teemo attack
 
 You are given a __non-decreasing__ integer array <code>timeSeries</code>, where <code>timeSeries[i]</code> denotes that Teemo attacks Ashe at second <code>timeSeries[i]</code>, and an integer <code>duration</code>.
 
-Return the __total__ number of seconds that Ashe is poisoned.
+Return *the __total__ number of seconds that Ashe is poisoned*.
 
 <br>
 
 #### Example 1:
 
-> __Input:__ timeSeries = [1,4], duration = 2  
-> __Output:__ 4  
+> __Input:__ timeSeries = [1,4], duration = 2
+> 
+> __Output:__ 4
+> 
 > __Explanation:__ Teemo's attacks on Ashe go as follows:  
 > - At second 1, Teemo attacks, and Ashe is poisoned for seconds 1 and 2.  
 > - At second 4, Teemo attacks, and Ashe is poisoned for seconds 4 and 5.  
@@ -23,8 +25,10 @@ Return the __total__ number of seconds that Ashe is poisoned.
 
 #### Example 2:
 
-> __Input:__ timeSeries = [1,2], duration = 2  
-> __Output:__ 3  
+> __Input:__ timeSeries = [1,2], duration = 2
+> 
+> __Output:__ 3
+> 
 > __Explanation:__ Teemo's attacks on Ashe go as follows:  
 > - At second 1, Teemo attacks, and Ashe is poisoned for seconds 1 and 2.  
 > - At second 2 however, Teemo attacks again and resets the poison timer. Ashe is poisoned for seconds 2 and 3.  
