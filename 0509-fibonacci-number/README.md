@@ -1,6 +1,6 @@
 ## [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 
-<code>Easy</code>
+<code>Easy</code> <code>Math</code> <code>Dynamic Programming</code> <code>Recursion</code> <code>Memoization</code>
 
 <br>
 
@@ -15,24 +15,30 @@ Given <code>n</code>, calculate <code>F(n)</code>.
 
 #### Example 1:
 
-> __Input:__ n = 2  
-> __Output:__ 1  
+> __Input:__ n = 2
+> 
+> __Output:__ 1
+> 
 > __Explanation:__ F(2) = F(1) + F(0) = 1 + 0 = 1.  
 
 #### Example 2:
 
-> __Input:__ n = 3  
-> __Output:__ 2  
+> __Input:__ n = 3
+> 
+> __Output:__ 2
+> 
 > __Explanation:__ F(3) = F(2) + F(1) = 1 + 1 = 2.  
 
 #### Example 3:
 
-> __Input:__ n = 4  
-> __Output:__ 3  
+> __Input:__ n = 4
+> 
+> __Output:__ 3
+> 
 > __Explanation:__ F(4) = F(3) + F(2) = 2 + 1 = 3.  
 
 <br>
 
 #### Constraints:
 
-<code>0 <= n <= 30</code>
+- <code>0 <= n <= 30</code>
