@@ -1,6 +1,6 @@
 ## [704. Binary Search](https://leetcode.com/problems/binary-search/)
 
-<code>Easy</code>
+<code>Easy</code> <code>Array</code> <code>Binary Search</code>
 
 <br>
 
@@ -12,14 +12,18 @@ You must write an algorithm with <code>O(log n)</code> runtime complexity.
 
 #### Example 1:
 
-> __Input:__ nums = [-1,0,3,5,9,12], target = 9  
-> __Output:__ 4  
+> __Input:__ nums = [-1,0,3,5,9,12], target = 9
+> 
+> __Output:__ 4
+> 
 > __Explanation:__ 9 exists in nums and its index is 4  
 
 #### Example 2:
 
-> __Input:__ nums = [-1,0,3,5,9,12], target = 2  
-> __Output:__ -1  
+> __Input:__ nums = [-1,0,3,5,9,12], target = 2
+> 
+> __Output:__ -1
+> 
 > __Explanation:__ 2 does not exist in nums so return -1  
 
 <br>
