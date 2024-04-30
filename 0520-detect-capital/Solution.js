@@ -1,9 +1,17 @@
+// Return true if the usage of capitals in it is right
+
+/**
+ * @param {string} word
+ * @return {boolean}
+ */
+
 var detectCapitalUse = function (word) {
     let firstLetterIsCap = word.charAt(0) == word.charAt(0).toUpperCase();
     let caps = 0;
 
     for (let i = 0; i < word.length; i++) {
-        if (word.charAt(i) == word.charAt(i).toLowerCase()) continue;
+        if (word.charAt(i) == word.charAt(i).toLowerCase()) { continue; }
+
         caps++;
     }
 
