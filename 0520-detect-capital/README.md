@@ -1,6 +1,6 @@
 ## [520. Detect Capital](https://leetcode.com/problems/detect-capital/)
 
-<code>Easy</code>
+<code>Easy</code> <code>String</code>
 
 <br>
 
@@ -16,12 +16,14 @@ Given a string <code>word</code>, return <code>true</code> if the usage of capit
 
 #### Example 1:
 
-> __Input:__ word = "USA"  
+> __Input:__ word = "USA"
+>  
 > __Output:__ true  
 
 #### Example 2:
 
-> __Input:__ word = "FlaG"  
+> __Input:__ word = "FlaG"
+>  
 > __Output:__ false  
 
 <br>
