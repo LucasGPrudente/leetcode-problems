@@ -1,3 +1,10 @@
+// Return the maximum distance between the indices of two prime numbers in nums
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+
 var maximumPrimeDifference = function (nums) {
     let diff = 0;
 
@@ -19,18 +26,12 @@ var maximumPrimeDifference = function (nums) {
 };
 
 function isPrime(n) {
-    if (n == 2) {
-        return true;
-    }
+    if (n == 2) { return true; }
 
-    if (n <= 1 || n % 2 == 0) {
-        return false;
-    }
+    if (n <= 1 || n % 2 == 0) { return false; }
 
     for (let i = 3; i * i <= n; i += 2) {
-        if (n % i == 0) {
-            return false;
-        }
+        if (n % i == 0) { return false; }
     }
 
     return true;
