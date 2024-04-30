@@ -1,6 +1,6 @@
 ## [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
 
-<code>Easy</code>
+<code>Easy</code> <code>Hash Table</code> <code>String</code>
 
 <br>
 
@@ -12,12 +12,14 @@ Letters are case sensitive, so <code>"a"</code> is considered a different type o
 
 #### Example 1:
 
-> __Input:__ jewels = "aA", stones = "aAAbbbb"  
+> __Input:__ jewels = "aA", stones = "aAAbbbb"
+> 
 > __Output:__ 3  
 
 #### Example 2:
 
-> __Input:__ jewels = "z", stones = "ZZ"  
+> __Input:__ jewels = "z", stones = "ZZ"
+> 
 > __Output:__ 0  
 
 <br>
