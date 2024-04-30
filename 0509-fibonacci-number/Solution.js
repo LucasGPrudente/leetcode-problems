@@ -1,8 +1,15 @@
+// Given n, calculate F(n)
+
+/**
+ * @param {number} n
+ * @return {number}
+ */
+
 var fib = function (n) {
     let fibonacci = [0, 1];
     let nextNum = 0;
 
-    if (n <= 1) return fibonacci[n];
+    if (n <= 1) { return fibonacci[n]; }
 
     let i = 0
     while (i < n) {
