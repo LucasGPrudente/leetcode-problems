@@ -1,10 +1,12 @@
+// Return the total number of seconds that Ashe is poisoned
+
 class Solution {
     public int findPoisonedDuration(int[] timeSeries, int duration) {
         int poisoned = 0;
 
-        for(int i = 0; i < timeSeries.length - 1; i++){
+        for (int i = 0; i < timeSeries.length - 1; i++) {
             int interval = timeSeries[i + 1] - timeSeries[i];
-
+            
             poisoned += (interval >= duration) ? duration : interval;
         }
 
