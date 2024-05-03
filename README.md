@@ -4,49 +4,49 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 <br>
 
 ### Easy
-|Number  |Problem|Difficulty|Code|
-|--------|-----|-----|-----|
-|1       |Two Sum|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0001-two-sum)|
-|9       |Palindrome Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0009-palindrome-number)|
-|13      |Roman to Integer|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0013-roman-to-integer)|
-|14      |Longest Common Prefix|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0014-longest-common-prefix)|
-|20      |Valid Parentheses|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0020-valid-parentheses)|
-|26      |Remove Duplicates from Sorted Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array)|
-|27      |Remove Element|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0027-remove-element)|
-|28      |Find the Index of the First Occurrence in a String|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string)|
-|35      |Search Insert Position|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0035-search-insert-position)|
-|58      |Length of Last Word|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0058-length-of-last-word)|
-|69      |Sqrt(x)|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0069-sqrtx)|
-|70      |Climbing Stairs|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0070-climbing-stairs)|
-|88      |Merge Sorted Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0088-merge-sorted-array)|
-|118     |Pascal's Triangle|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0118-pascals-triangle)|
-|303     |Range Sum Query - Immutable|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0303-range-sum-query-immutable)|
-|349     |Intersection of Two Arrays|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0349-intersection-of-two-arrays)|
-|412     |Fizz Buzz|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0412-fizz-buzz)|
-|448     |Find All Numbers Disappeared in an Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array)|
-|463     |Island Perimeter|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0463-island-perimeter)|
-|495     |Teemo Attacking|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0495-teemo-attacking)|
-|509     |Fibonacci Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0509-fibonacci-number)|
-|520     |Detect Capital|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0520-detect-capital)|
-|657     |Robot Return to Origin|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0657-robot-return-to-origin)|
-|704     |Binary Search|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0704-binary-search)|
-|709     |To Lower Case|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0709-to-lower-case)|
-|771     |Jewels and Stones|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0771-jewels-and-stones)|
-|867     |Transpose Matrix|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0867-transpose-matrix)|
-|896     |Monotonic Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0896-monotonic-array)|
-|1137    |N-th Tribonacci Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/1137-n-th-tribonacci-number)|
-|1342    |Number of Steps to Reduce a Number to Zero|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero)|
-|1431    |Kids With the Greatest Number of Candies|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1431-kids-with-the-greatest-number-of-candies)|
-|1470    |Shuffle the Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1470-shuffle-the-array)|
-|1512    |Number of Good Pairs|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1512-number-of-good-pairs)|
-|1678    |Goal Parser Interpretation|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1678-goal-parser-interpretation)|
-|1700    |Number of Students Unable to Eat Lunch|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch)|
-|1720    |Decode XORed Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1720-decode-xored-array)|
-|1732    |Find the Highest Altitude|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1732-find-the-highest-altitude)|
-|1768    |Merge Strings Alternately|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1768-merge-strings-alternately)|
-|1832    |Check if the Sentence Is Pangram|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1832-check-if-the-sentence-is-pangram)|
-|1859    |Sorting the Sentence|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1859-sorting-the-sentence)|
-|1920    |Build Array from Permutation|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1920-build-array-from-permutation)|
+|Number  |Problem                                                |Difficulty                           |Code                                                                                |
+|--------|-------------------------------------------------------|-------------------------------------|------------------------------------------------------------------------------------|
+|1       |Two Sum                                                |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0001-two-sum)  |
+|9       |Palindrome Number                                      |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0009-palindrome-number)|
+|13      |Roman to Integer                                       |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0013-roman-to-integer)|
+|14      |Longest Common Prefix                                  |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0014-longest-common-prefix)|
+|20      |Valid Parentheses                                      |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0020-valid-parentheses)|
+|26      |Remove Duplicates from Sorted Array                    |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0026-remove-duplicates-from-sorted-array)|
+|27      |Remove Element                                         |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0027-remove-element)|
+|28      |Find the Index of the First Occurrence in a String     |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string)|
+|35      |Search Insert Position                                 |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0035-search-insert-position)|
+|58      |Length of Last Word                                    |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0058-length-of-last-word)|
+|69      |Sqrt(x)                                                |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0069-sqrtx)|
+|70      |Climbing Stairs                                        |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0070-climbing-stairs)|
+|88      |Merge Sorted Array                                     |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0088-merge-sorted-array)|
+|118     |Pascal's Triangle                                      |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0118-pascals-triangle)|
+|303     |Range Sum Query - Immutable                            |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0303-range-sum-query-immutable)|
+|349     |Intersection of Two Arrays                             |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0349-intersection-of-two-arrays)|
+|412     |Fizz Buzz                                              |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0412-fizz-buzz)|
+|448     |Find All Numbers Disappeared in an Array               |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0448-find-all-numbers-disappeared-in-an-array)|
+|463     |Island Perimeter                                       |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0463-island-perimeter)|
+|495     |Teemo Attacking                                        |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0495-teemo-attacking)|
+|509     |Fibonacci Number                                       |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0509-fibonacci-number)|
+|520     |Detect Capital                                         |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0520-detect-capital)|
+|657     |Robot Return to Origin                                 |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0657-robot-return-to-origin)|
+|704     |Binary Search                                          |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0704-binary-search)|
+|709     |To Lower Case                                          |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0709-to-lower-case)|
+|771     |Jewels and Stones                                      |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0771-jewels-and-stones)|
+|867     |Transpose Matrix                                       |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0867-transpose-matrix)|
+|896     |Monotonic Array                                        |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/0896-monotonic-array)|
+|1137    |N-th Tribonacci Number                                 |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/1137-n-th-tribonacci-number)|
+|1342    |Number of Steps to Reduce a Number to Zero             |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode_problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero)|
+|1431    |Kids With the Greatest Number of Candies               |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1431-kids-with-the-greatest-number-of-candies)|
+|1470    |Shuffle the Array                                      |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1470-shuffle-the-array)|
+|1512    |Number of Good Pairs                                   |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1512-number-of-good-pairs)|
+|1678    |Goal Parser Interpretation                             |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1678-goal-parser-interpretation)|
+|1700    |Number of Students Unable to Eat Lunch                 |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1700-number-of-students-unable-to-eat-lunch)|
+|1720    |Decode XORed Array                                     |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1720-decode-xored-array)|
+|1732    |Find the Highest Altitude                              |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1732-find-the-highest-altitude)|
+|1768    |Merge Strings Alternately                              |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1768-merge-strings-alternately)|
+|1832    |Check if the Sentence Is Pangram                       |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1832-check-if-the-sentence-is-pangram)|
+|1859    |Sorting the Sentence                                   |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1859-sorting-the-sentence)|
+|1920    |Build Array from Permutation                           |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1920-build-array-from-permutation)|
 |2000    |Reverse Prefix of Word                                 |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2000-reverse-prefix-of-word)|
 |2073    |Time Needed to Buy Tickets                             |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2073-time-needed-to-buy-tickets)|
 |2108    |Find First Palindromic String in the Array             |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2108-find-first-palindromic-string-in-the-array)|
