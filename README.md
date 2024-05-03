@@ -47,41 +47,41 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |1832    |Check if the Sentence Is Pangram|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1832-check-if-the-sentence-is-pangram)|
 |1859    |Sorting the Sentence|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1859-sorting-the-sentence)|
 |1920    |Build Array from Permutation|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/1920-build-array-from-permutation)|
-|2000    |Reverse Prefix of Word|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2000-reverse-prefix-of-word)|
-|2073    |Time Needed to Buy Tickets|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2073-time-needed-to-buy-tickets)|
-|2108    |Find First Palindromic String in the Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2108-find-first-palindromic-string-in-the-array)|
-|2114    |Maximum Number of Words Found in Sentences|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2114-maximum-number-of-words-found-in-sentences)|
-|2235    |Add Two Integers|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2235-add-two-integers)|
-|2293    |Min Max Game|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2293-min-max-game)|
-|2413    |Smallest Even Multiple|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2413-smallest-even-multiple)|
-|2485    |Find the Pivot Integer|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2485-find-the-pivot-integer)|
-|2540    |Minimum Common Value|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2540-minimum-common-value)|
-|2544    |Alternating Digit Sum|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2544-alternating-digit-sum)|
-|2574    |Left and Right Sum Differences|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2574-left-and-right-sum-differences)|
-|2619    |Array Prototype Last|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2619-array-prototype-last)|
-|2620    |Counter|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2620-counter)|
-|2621    |Sleep|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2621-sleep)|
-|2634    |Filter Elements from Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2634-filter-elements-from-array)|
-|2652    |Sum Multiples|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2652-sum-multiples)|
-|2665    |Counter II|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2665-counter-ii)|
-|2667    |Create Hello World Function|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2667-create-hello-world-function)|
-|2677    |Chunk Array|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2677-chunk-array)|
-|2703    |Return Length of Arguments Passed|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2703-return-length-of-arguments-passed)|
-|2723    |Add Two Promises|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2723-add-two-promises)|
-|2726    |Calculator with Method Chaining|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2726-calculator-with-method-chaining)|
-|2744    |Find Maximum Number of String Pairs|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2744-find-maximum-number-of-string-pairs)|
-|2769    |Find the Maximum Achievable Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2769-find-the-maximum-achievable-number)|
-|2942    |Find Words Containing Character|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2942-find-words-containing-character)|
-|2951    |Find the Peaks|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2951-find-the-peaks)|
-|2974    |Minimum Number Game|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2974-minimum-number-game)|
-|3000    |Maximum Area of Longest Diagonal Rectangle|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3000-maximum-area-of-longest-diagonal-rectangle)|
-|3005    |Count Elements With Maximum Frequency|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency)|
-|3065    |Minimum Operations to Exceed Threshold Value I|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3065-minimum-operations-to-exceed-threshold-value-i)|
-|3074    |Apple Redistribution into Boxes|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3074-apple-redistribution-into-boxes)|
-|3079    |Find the Sum of Encrypted Integers|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3079-find-the-sum-of-encrypted-integers)|
-|3099    |Harshad Number|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3099-harshad-number)|
-|3110    |Score of a String|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3110-score-of-a-string)|
-|3114    |Latest Time You Can Obtain After Replacing Characters|${\textsf{\color{Lightgreen}Easy}}$|[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters)|
+|2000    |Reverse Prefix of Word                                 |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2000-reverse-prefix-of-word)|
+|2073    |Time Needed to Buy Tickets                             |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2073-time-needed-to-buy-tickets)|
+|2108    |Find First Palindromic String in the Array             |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2108-find-first-palindromic-string-in-the-array)|
+|2114    |Maximum Number of Words Found in Sentences             |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2114-maximum-number-of-words-found-in-sentences)|
+|2235    |Add Two Integers                                       |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2235-add-two-integers)|
+|2293    |Min Max Game                                           |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2293-min-max-game)|
+|2413    |Smallest Even Multiple                                 |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2413-smallest-even-multiple)|
+|2485    |Find the Pivot Integer                                 |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2485-find-the-pivot-integer)|
+|2540    |Minimum Common Value                                   |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2540-minimum-common-value)|
+|2544    |Alternating Digit Sum                                  |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2544-alternating-digit-sum)|
+|2574    |Left and Right Sum Differences                         |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2574-left-and-right-sum-differences)|
+|2619    |Array Prototype Last                                   |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2619-array-prototype-last)|
+|2620    |Counter                                                |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2620-counter)|
+|2621    |Sleep                                                  |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2621-sleep)|
+|2634    |Filter Elements from Array                             |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2634-filter-elements-from-array)|
+|2652    |Sum Multiples                                          |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2652-sum-multiples)|
+|2665    |Counter II                                             |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2665-counter-ii)|
+|2667    |Create Hello World Function                            |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2667-create-hello-world-function)|
+|2677    |Chunk Array                                            |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2677-chunk-array)|
+|2703    |Return Length of Arguments Passed                      |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2703-return-length-of-arguments-passed)|
+|2723    |Add Two Promises                                       |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2723-add-two-promises)|
+|2726    |Calculator with Method Chaining                        |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2726-calculator-with-method-chaining)|
+|2744    |Find Maximum Number of String Pairs                    |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2744-find-maximum-number-of-string-pairs)|
+|2769    |Find the Maximum Achievable Number                     |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2769-find-the-maximum-achievable-number)|
+|2942    |Find Words Containing Character                        |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2942-find-words-containing-character)|
+|2951    |Find the Peaks                                         |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2951-find-the-peaks)|
+|2974    |Minimum Number Game                                    |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/2974-minimum-number-game)|
+|3000    |Maximum Area of Longest Diagonal Rectangle             |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3000-maximum-area-of-longest-diagonal-rectangle)|
+|3005    |Count Elements With Maximum Frequency                  |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3005-count-elements-with-maximum-frequency)|
+|3065    |Minimum Operations to Exceed Threshold Value I         |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3065-minimum-operations-to-exceed-threshold-value-i)|
+|3074    |Apple Redistribution into Boxes                        |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3074-apple-redistribution-into-boxes)|
+|3079    |Find the Sum of Encrypted Integers                     |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3079-find-the-sum-of-encrypted-integers)|
+|3099    |Harshad Number                                         |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3099-harshad-number)|
+|3110    |Score of a String                                      |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3110-score-of-a-string)|
+|3114    |Latest Time You Can Obtain After Replacing Characters  |${\textsf{\color{Lightgreen}Easy}}$  |[View](https://github.com/LucasGPrudente/leetcode-problems/tree/main/3114-latest-time-you-can-obtain-after-replacing-characters)|
 
 <br>
 
