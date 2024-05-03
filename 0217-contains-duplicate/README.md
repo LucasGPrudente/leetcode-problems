@@ -1,4 +1,4 @@
-## 217. Contains Duplicate
+## [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate)
 
 <code>Easy</code> <code>Array</code> <code>Hash Table</code> <code>Sorting</code>
 
