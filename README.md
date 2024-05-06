@@ -107,7 +107,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |665   |Non-decreasing Array                            |${\textsf{\color{Dandelion}Medium}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/0665-non-decreasing-array/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/0665-non-decreasing-array/Solution.js)  |
 |841   |Keys and Rooms                                  |${\textsf{\color{Dandelion}Medium}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/0841-keys-and-rooms/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/0841-keys-and-rooms/Solution.js)  |
 |2396  |Strictly Palindromic Number                     |${\textsf{\color{Dandelion}Medium}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/2396-strictly-palindromic-number/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2396-strictly-palindromic-number/Solution.js)  |
-|3115  |Maximum Prime Difference                        |${\textsf{\color{Dandelion}Medium}}$  |Java and JavaScript  |
+|3115  |Maximum Prime Difference                        |${\textsf{\color{Dandelion}Medium}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/3115-maximum-prime-difference/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/3115-maximum-prime-difference/Solution.js)  |
 
 <br>
 
