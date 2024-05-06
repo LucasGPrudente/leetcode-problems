@@ -1,5 +1,11 @@
+// Return the longest substring without repeating characters
+
 class Solution {
     public int lengthOfLongestSubstring(String s) {
+        if (s.length() == 0) {
+            return 0;
+        }
+
         List<Integer> lengths = new ArrayList<>();
 
         for (int x = 0; x < s.length(); x++) {
