@@ -69,7 +69,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |2544    |Alternating Digit Sum                                  |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2574    |Left and Right Sum Differences                         |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2619    |Array Prototype Last                                   |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
-|2620    |Counter                                                |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
+|2620    |Counter                                                |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2620-counter/Solution.js)  |
 |2621    |Sleep                                                  |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2634    |Filter Elements from Array                             |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2652    |Sum Multiples                                          |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
@@ -77,6 +77,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |2667    |Create Hello World Function                            |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2667-create-hello-world-function/Solution.js)  |
 |2677    |Chunk Array                                            |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2703    |Return Length of Arguments Passed                      |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
+|2704    |To Be Or Not To Be                                     |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2704-to-be-or-not-to-be/Solution.js)  |
 |2723    |Add Two Promises                                       |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2726    |Calculator with Method Chaining                        |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2744    |Find Maximum Number of String Pairs                    |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
