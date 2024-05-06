@@ -5,6 +5,7 @@
 <br>
 
 Table: <code>World</code>  
+
 > | Column Name | Type    |  
 > |-------------|---------|  
 > | name        | varchar |  
@@ -33,7 +34,7 @@ The result format is in the following example.
 
 Example 1:
 
-> __Input:__   
+> __Input__   
 > World table:  
 > | name        | continent | area    | population | gdp          |  
 > |-------------|-----------|---------|------------|--------------|  
@@ -42,8 +43,10 @@ Example 1:
 > | Algeria     | Africa    | 2381741 | 37100000   | 188681000000 |  
 > | Andorra     | Europe    | 468     | 78115      | 3712000000   |  
 > | Angola      | Africa    | 1246700 | 20609294   | 100990000000 |  
->   
-> __Output:__   
+>
+> <br>
+>  
+> __Output__   
 > | name        | population | area    |  
 > |-------------|------------|---------|  
 > | Afghanistan | 25500100   | 652230  |  
