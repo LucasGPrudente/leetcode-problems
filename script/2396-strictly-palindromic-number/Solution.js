@@ -10,9 +10,7 @@ var isStrictlyPalindromic = function (n) {
         let orig = n.toString(b);
         let rev = orig.split("").reverse().join("");
 
-        if (orig != rev) {
-            return false;
-        }
+        if (orig != rev) { return false; }
     }
 
     return true;
