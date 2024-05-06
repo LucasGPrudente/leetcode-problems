@@ -100,6 +100,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |3     |Longest Substring Without Repeating Characters  |${\textsf{\color{Dandelion}Medium}}$  |Java and JavaScript  |
 |7     |Reverse Integer                                 |${\textsf{\color{Dandelion}Medium}}$  |Java and JavaScript  |
 |38    |Count and Say                                   |${\textsf{\color{Dandelion}Medium}}$  |Java and JavaScript  |
+|50    |Pow(x, n)                                       |${\textsf{\color{Dandelion}Medium}}$  |Java and JavaScript  |
 |74    |Search a 2D Matrix                              |${\textsf{\color{Dandelion}Medium}}$  |Java and JavaScript  |
 |151   |Reverse Words in a String                       |${\textsf{\color{Dandelion}Medium}}$  |Java and JavaScript  |
 |442   |Find All Duplicates in an Array                 |${\textsf{\color{Dandelion}Medium}}$  |Java and JavaScript  |
