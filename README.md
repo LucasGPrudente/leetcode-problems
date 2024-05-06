@@ -110,7 +110,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 
 <br>
 
-|Number|Title                        |Difficulty                          |Solution             |
-|------|-----------------------------|------------------------------------|---------------------|
-|4     |Median of Two Sorted Arrays  |${\textsf{\color{IndianRed}Hard}}$  |Java and JavaScript  |
-|1402  |Reducing Dishes              |${\textsf{\color{IndianRed}Hard}}$  |Java and JavaScript  |
+|Number|Title                        |Difficulty                          |Solution  |
+|------|-----------------------------|------------------------------------|----------|
+|4     |Median of Two Sorted Arrays  |${\textsf{\color{IndianRed}Hard}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/0004-median-of-two-sorted-arrays/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/0004-median-of-two-sorted-arrays/Solution.js)  |
+|1402  |Reducing Dishes              |${\textsf{\color{IndianRed}Hard}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/1402-reducing-dishes/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/1402-reducing-dishes/Solution.js)  |
