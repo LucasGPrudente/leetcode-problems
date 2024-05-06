@@ -1,6 +1,6 @@
 ## [1402. Reducing Dishes](https://leetcode.com/problems/reducing-dishes/)
 
-<code>Hard</code>
+<code>Hard</code> <code>Array</code> <code>Dynamic Programming</code> <code>Greedy</code> <code>Sorting</code>
 
 <br>
 
@@ -16,21 +16,27 @@ Dishes can be prepared in __any__ order and the chef can discard some dishes to 
 
 #### Example 1:
 
-> __Input:__ satisfaction = [-1,-8,0,5,-9]  
-> __Output:__ 14  
+> __Input:__ satisfaction = [-1,-8,0,5,-9]
+> 
+> __Output:__ 14
+> 
 > __Explanation:__ After Removing the second and last dish, the maximum total like-time coefficient will be equal to (-1*1 + 0*2 + 5*3 = 14).  
 > Each dish is prepared in one unit of time.  
 
 #### Example 2:
 
-> __Input:__ satisfaction = [4,3,2]  
-> __Output:__ 20  
+> __Input:__ satisfaction = [4,3,2]
+> 
+> __Output:__ 20
+> 
 > __Explanation:__ Dishes can be prepared in any order, (2*1 + 3*2 + 4*3 = 20)  
 
 #### Example 3:
 
-> __Input:__ satisfaction = [-1,-4,-5]  
-> __Output:__ 0  
+> __Input:__ satisfaction = [-1,-4,-5]
+> 
+> __Output:__ 0
+>  
 > __Explanation:__ People do not like the dishes. No dish is prepared.  
 
 <br>
