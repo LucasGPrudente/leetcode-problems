@@ -1,3 +1,5 @@
+// Return the nth element of the count-and-say sequence
+
 class Solution {
     public String countAndSay(int n) {
         String sequence = "1";
