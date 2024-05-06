@@ -5,6 +5,7 @@
 <br>
 
 Table: <code>Tweets</code>  
+
 > | Column Name    | Type    |  
 > |----------------|---------|  
 > | tweet_id       | int     |  
@@ -25,18 +26,22 @@ The result format is in the following example.
 
 #### Example 1:
 
-> __Input:__   
+> __Input__   
 > Tweets table:  
 > | tweet_id | content                          |  
 > |----------|----------------------------------|  
 > | 1        | Vote for Biden                   |  
 > | 2        | Let us make America great again! |  
->   
-> __Output:__   
+>
+> <br>
+>  
+> __Output__   
 > | tweet_id |  
 > |----------|  
 > | 2        |  
->   
-> __Explanation:__   
+>  
+> <br>
+>  
+> __Explanation__   
 > Tweet 1 has length = 14. It is a valid tweet.  
 > Tweet 2 has length = 32. It is an invalid tweet.  
