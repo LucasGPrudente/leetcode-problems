@@ -1,3 +1,5 @@
+// Return x with its digits reversed
+
 class Solution {
     public int reverse(int x) {
         long reversedNum = 0;
