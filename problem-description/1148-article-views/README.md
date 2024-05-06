@@ -5,6 +5,7 @@
 <br>
 
 Table: <code>Views</code>
+
 > | Column Name   | Type    |  
 > |---------------|---------|  
 > | article_id    | int     |  
@@ -28,7 +29,7 @@ The result format is in the following example.
 
 #### Example 1:
 
-> __Input:__   
+> __Input__   
 > Views table:  
 > | article_id | author_id | viewer_id | view_date  |  
 > |------------|-----------|-----------|------------|  
@@ -39,8 +40,10 @@ The result format is in the following example.
 > | 4          | 7         | 1         | 2019-07-22 |  
 > | 3          | 4         | 4         | 2019-07-21 |  
 > | 3          | 4         | 4         | 2019-07-21 |  
->   
-> __Output:__   
+>
+> <br>
+>  
+> __Output__   
 > | id   |  
 > |------|  
 > | 4    |  
