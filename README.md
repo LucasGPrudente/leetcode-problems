@@ -73,7 +73,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |2621    |Sleep                                                  |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2634    |Filter Elements from Array                             |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2652    |Sum Multiples                                          |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
-|2665    |Counter II                                             |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
+|2665    |Counter II                                             |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2665-counter-ii/Solution.js)  |
 |2667    |Create Hello World Function                            |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2667-create-hello-world-function/Solution.js)  |
 |2677    |Chunk Array                                            |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2703    |Return Length of Arguments Passed                      |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
