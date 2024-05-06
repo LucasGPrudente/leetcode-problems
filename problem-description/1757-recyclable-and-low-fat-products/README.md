@@ -28,7 +28,7 @@ The result format is in the following example.
 
 #### Example 1:
 
-> __Input:__  
+> __Input__  
 > Products table:  
 > | product_id  | low_fats | recyclable |  
 > |-------------|----------|------------|  
@@ -37,11 +37,16 @@ The result format is in the following example.
 > | 2           | N        | Y          |  
 > | 3           | Y        | Y          |  
 > | 4           | N        | N          |  
->   
-> __Output:__  
+>
+> <br>
+>
+> __Output__
 > | product_id  |  
 > |-------------|  
 > | 1           |  
 > | 3           |  
->   
-> __Explanation:__ Only products 1 and 3 are both low fat and recyclable.  
+> 
+> <br>
+>
+> __Explanation__   
+> Only products 1 and 3 are both low fat and recyclable.  
