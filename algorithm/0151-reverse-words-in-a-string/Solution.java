@@ -1,3 +1,5 @@
+// Return a string of the words in reverse order concatenated by a single space
+
 class Solution {
     public String reverseWords(String str) {
         String phase = str.trim().replaceAll(" +", " ");
