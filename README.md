@@ -97,7 +97,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 
 |Number|Title                                           |Difficulty                            |Solution             |
 |------|------------------------------------------------|--------------------------------------|---------------------|
-|3     |Longest Substring Without Repeating Characters  |${\textsf{\color{Dandelion}Medium}}$  |Java and JavaScript  |
+|3     |Longest Substring Without Repeating Characters  |${\textsf{\color{Dandelion}Medium}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/0003-longest-substring-without-repeating-characters/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/0003-longest-substring-without-repeating-characters/Solution.js)  |
 |7     |Reverse Integer                                 |${\textsf{\color{Dandelion}Medium}}$  |Java and JavaScript  |
 |38    |Count and Say                                   |${\textsf{\color{Dandelion}Medium}}$  |Java and JavaScript  |
 |50    |Pow(x, n)                                       |${\textsf{\color{Dandelion}Medium}}$  |Java and JavaScript  |
