@@ -5,6 +5,7 @@
 <br>
 
 Table: <code>Customer</code>
+
 > | Column Name | Type    |  
 > |-------------|---------|  
 > | id          | int     |  
@@ -36,7 +37,9 @@ The result format is in the following example.
 > | 4  | Bill | null       |  
 > | 5  | Zack | 1          |  
 > | 6  | Mark | 2          |  
->   
+>
+> <br>
+>  
 > __Output:__   
 > | name |  
 > |------|  
