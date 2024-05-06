@@ -1,3 +1,10 @@
+// Return the nth element of the count-and-say sequence
+
+/**
+ * @param {number} n
+ * @return {string}
+ */
+
 var countAndSay = function (n) {
     let seq = "1";
 
