@@ -68,18 +68,18 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |2540    |Minimum Common Value                                   |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2544    |Alternating Digit Sum                                  |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2574    |Left and Right Sum Differences                         |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
-|2619    |Array Prototype Last                                   |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
+|2619    |Array Prototype Last                                   |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2619-array-prototype-last/Solution.js)  |
 |2620    |Counter                                                |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2620-counter/Solution.js)  |
-|2621    |Sleep                                                  |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
-|2634    |Filter Elements from Array                             |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
+|2621    |Sleep                                                  |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2621-sleep/Solution.js)  |
+|2634    |Filter Elements from Array                             |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2634-filter-elements-from-array/Solution.js)  |
 |2652    |Sum Multiples                                          |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2665    |Counter II                                             |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2665-counter-ii/Solution.js)  |
 |2667    |Create Hello World Function                            |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2667-create-hello-world-function/Solution.js)  |
-|2677    |Chunk Array                                            |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
-|2703    |Return Length of Arguments Passed                      |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
+|2677    |Chunk Array                                            |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2677-chunk-array/Solution.js)  |
+|2703    |Return Length of Arguments Passed                      |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2703-return-length-of-arguments-passed/Solution.js)  |
 |2704    |To Be Or Not To Be                                     |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2704-to-be-or-not-to-be/Solution.js)  |
-|2723    |Add Two Promises                                       |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
-|2726    |Calculator with Method Chaining                        |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
+|2723    |Add Two Promises                                       |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2723-add-two-promises/Solution.js)  |
+|2726    |Calculator with Method Chaining                        |${\textsf{\color{Lightgreen}Easy}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2726-calculator-with-method-chaining/Solution.js)  |
 |2744    |Find Maximum Number of String Pairs                    |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2769    |Find the Maximum Achievable Number                     |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |2942    |Find Words Containing Character                        |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
@@ -108,6 +108,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |665   |Non-decreasing Array                            |${\textsf{\color{Dandelion}Medium}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/0665-non-decreasing-array/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/0665-non-decreasing-array/Solution.js)  |
 |841   |Keys and Rooms                                  |${\textsf{\color{Dandelion}Medium}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/0841-keys-and-rooms/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/0841-keys-and-rooms/Solution.js)  |
 |2396  |Strictly Palindromic Number                     |${\textsf{\color{Dandelion}Medium}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/2396-strictly-palindromic-number/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2396-strictly-palindromic-number/Solution.js)  |
+|2625    |Flatten Deeply Nested Array                   |${\textsf{\color{Dandelion}Medium}}$  |[JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/2625-flatten-deeply-nested-array/Solution.js)  |
 |3115  |Maximum Prime Difference                        |${\textsf{\color{Dandelion}Medium}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/3115-maximum-prime-difference/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/3115-maximum-prime-difference/Solution.js)  |
 
 <br>
