@@ -1,3 +1,5 @@
+// Return an array of all the integers that appears twice
+
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
         List<Integer> duplicatesNums = new ArrayList<>();
