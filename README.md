@@ -31,6 +31,9 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |504     |Base 7                                                 |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |509     |Fibonacci Number                                       |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |520     |Detect Capital                                         |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
+|577     |Employee Bonus                                         |${\textsf{\color{Lightgreen}Easy}}$  |[MySQL](https://github.com/LucasGPrudente/leetcode-problems/blob/main/database/0577-employee-bonus/Solution.sql)  |
+|584     |Find Customer Referee                                  |${\textsf{\color{Lightgreen}Easy}}$  |[MySQL](https://github.com/LucasGPrudente/leetcode-problems/blob/main/database/0584-find-customer-referee/Solution.sql)  |
+|595     |Big Countries                                          |${\textsf{\color{Lightgreen}Easy}}$  |[MySQL](https://github.com/LucasGPrudente/leetcode-problems/blob/main/database/0595-big-countries/Solution.sql)  |
 |620     |Not Boring Movies                                      |${\textsf{\color{Lightgreen}Easy}}$  |[MySQL](https://github.com/LucasGPrudente/leetcode-problems/blob/main/database/0620-not-boring-movies/Solution.sql)  |
 |657     |Robot Return to Origin                                 |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |682     |Baseball Game                                          |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
@@ -41,15 +44,18 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |896     |Monotonic Array                                        |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |1089    |Duplicate Zeros                                        |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |1137    |N-th Tribonacci Number                                 |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
+|1148    |Article Views I                                        |${\textsf{\color{Lightgreen}Easy}}$  |[MySQL](https://github.com/LucasGPrudente/leetcode-problems/blob/main/database/1148-article-views/Solution.sql)  |
 |1281    |Subtract the Product and Sum of Digits of an Integer   |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |1342    |Number of Steps to Reduce a Number to Zero             |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |1431    |Kids With the Greatest Number of Candies               |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |1470    |Shuffle the Array                                      |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |1512    |Number of Good Pairs                                   |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |1678    |Goal Parser Interpretation                             |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
+|1683    |Invalid Tweets                                         |${\textsf{\color{Lightgreen}Easy}}$  |[MySQL](https://github.com/LucasGPrudente/leetcode-problems/blob/main/database/1683-invalid-tweets/Solution.sql)  |
 |1700    |Number of Students Unable to Eat Lunch                 |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |1720    |Decode XORed Array                                     |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |1732    |Find the Highest Altitude                              |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
+|1757    |Recyclable and Low Fat Products                        |${\textsf{\color{Lightgreen}Easy}}$  |[MySQL](https://github.com/LucasGPrudente/leetcode-problems/blob/main/database/1757-recyclable-and-low-fat-products/Solution.sql)  |
 |1768    |Merge Strings Alternately                              |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |1832    |Check if the Sentence Is Pangram                       |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |1859    |Sorting the Sentence                                   |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
