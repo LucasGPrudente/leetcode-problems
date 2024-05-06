@@ -19,7 +19,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |70      |Climbing Stairs                                        |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |88      |Merge Sorted Array                                     |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |118     |Pascal's Triangle                                      |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
-|196     |Delete Duplicate Emails                                |${\textsf{\color{Lightgreen}Easy}}$  |MySQL                |
+|196     |Delete Duplicate Emails                                |${\textsf{\color{Lightgreen}Easy}}$  |[MySQL](https://github.com/LucasGPrudente/leetcode-problems/blob/main/database/0196-delete-duplicate-emails/Solution.sql)  |
 |217     |Contains Duplicate                                     |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |219     |Contains Duplicate II                                  |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |303     |Range Sum Query - Immutable                            |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
@@ -31,7 +31,7 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |504     |Base 7                                                 |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |509     |Fibonacci Number                                       |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |520     |Detect Capital                                         |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
-|620     |Not Boring Movies                                      |${\textsf{\color{Lightgreen}Easy}}$  |MySQL                |
+|620     |Not Boring Movies                                      |${\textsf{\color{Lightgreen}Easy}}$  |[MySQL](https://github.com/LucasGPrudente/leetcode-problems/blob/main/database/0620-not-boring-movies/Solution.sql)  |
 |657     |Robot Return to Origin                                 |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |682     |Baseball Game                                          |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |704     |Binary Search                                          |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
