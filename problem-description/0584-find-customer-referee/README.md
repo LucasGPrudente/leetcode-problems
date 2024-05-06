@@ -27,7 +27,7 @@ The result format is in the following example.
 
 #### Example 1:
 
-> __Input:__   
+> __Input__   
 > Customer table:  
 > | id | name | referee_id |  
 > |----|------|------------|  
@@ -40,7 +40,7 @@ The result format is in the following example.
 >
 > <br>
 >  
-> __Output:__   
+> __Output__   
 > | name |  
 > |------|  
 > | Will |  
