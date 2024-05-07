@@ -1,3 +1,10 @@
+// Return the number of steps to reduce it to zero
+
+/**
+ * @param {number} num
+ * @return {number}
+ */
+
 var numberOfSteps = function (num) {
     let steps = 0;
 
@@ -7,6 +14,6 @@ var numberOfSteps = function (num) {
 
         steps++;
     }
-    
+
     return steps;
 };
