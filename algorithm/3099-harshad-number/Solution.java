@@ -1,3 +1,5 @@
+// Return the sum of the digits of x
+
 class Solution {
     public int sumOfTheDigitsOfHarshadNumber(int x) {
         int num = x;
