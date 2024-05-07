@@ -10,11 +10,15 @@ class Solution {
         for (int n : nums) {
             elem[n]++;
 
-            if (elem[n] > maxFreq) { maxFreq = elem[n]; }
+            if (elem[n] > maxFreq) {
+                maxFreq = elem[n];
+            }
         }
 
         for (int freq : elem) {
-            if (freq == maxFreq) { occurr++; }
+            if (freq == maxFreq) {
+                occurr++;
+            }
         }
 
         return maxFreq * occurr;
