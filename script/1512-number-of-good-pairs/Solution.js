@@ -1,3 +1,10 @@
+// Return the number of good pairs
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+
 var numIdenticalPairs = function (nums) {
     let goodPairs = 0;
 
