@@ -6,7 +6,9 @@ class Solution {
 
         for (int x = 0; x < words.length; x++) {
             for (int z = x + 1; z < words.length; z++) {
-                if (words[x].charAt(0) == words[z].charAt(1) && words[x].charAt(1) == words[z].charAt(0)) { pairs++; }
+                if (words[x].charAt(0) == words[z].charAt(1) && words[x].charAt(1) == words[z].charAt(0)) {
+                    pairs++;
+                }
             }
         }
 
