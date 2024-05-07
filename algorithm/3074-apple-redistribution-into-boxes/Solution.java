@@ -1,3 +1,5 @@
+// Return the minimum number of boxes you need to select to redistribute these n packs of apples into boxes
+
 class Solution {
     public int minimumBoxes(int[] apple, int[] capacity) {
         Arrays.sort(capacity);
