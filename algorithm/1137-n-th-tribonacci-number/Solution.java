@@ -1,3 +1,5 @@
+// Return the value of position X in the sequence (Tribonacci Number)
+
 class Solution {
     public int tribonacci(int n) {
         int[] sequence = new int[] { 0, 1, 1 };
