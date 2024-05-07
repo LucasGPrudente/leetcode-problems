@@ -1,3 +1,11 @@
+// Return a boolean array result
+
+/**
+ * @param {number[]} candies
+ * @param {number} extraCandies
+ * @return {boolean[]}
+ */
+
 var kidsWithCandies = function (candies, extraCandies) {
     let results = [];
     let grtNum = 0;
