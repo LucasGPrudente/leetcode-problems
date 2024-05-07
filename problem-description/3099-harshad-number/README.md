@@ -1,10 +1,10 @@
 ## [3099. Harshad Number](https://leetcode.com/problems/harshad-number/)
 
-<code>Easy</code>
+<code>Easy</code> <code>Math</code>
 
 <br>
 
-An integer divisible by the __sum__ of its digits is said to be a __Harshad__ number. You are given an integer <code>x</code>. Return the sum of the digits of <code>x</code> if <code>x</code> is a __Harshad__ number, otherwise, return <code>-1</code>.
+An integer divisible by the __sum__ of its digits is said to be a __Harshad__ number. You are given an integer <code>x</code>. Return *the sum of the digits* of <code>x</code> if <code>x</code> is a __Harshad__ number, otherwise, return <code>-1</code>.
 
 <br>
 
@@ -26,6 +26,6 @@ An integer divisible by the __sum__ of its digits is said to be a __Harshad__ nu
 
 <br>
 
-Constraints:
+#### Constraints:
 
-<code>1 <= x <= 100</code>
+- <code>1 <= x <= 100</code>
