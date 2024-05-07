@@ -96,9 +96,9 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |3065    |Minimum Operations to Exceed Threshold Value I         |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |3074    |Apple Redistribution into Boxes                        |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |3079    |Find the Sum of Encrypted Integers                     |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
-|3099    |Harshad Number                                         |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
-|3110    |Score of a String                                      |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
-|3114    |Latest Time You Can Obtain After Replacing Characters  |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
+|3099    |Harshad Number                                         |${\textsf{\color{Lightgreen}Easy}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/3099-harshad-number/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/3099-harshad-number/Solution.js)                                                                                |
+|3110    |Score of a String                                      |${\textsf{\color{Lightgreen}Easy}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/3110-score-of-a-string/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/3110-score-of-a-string/Solution.js)                                                                          |
+|3114    |Latest Time You Can Obtain After Replacing Characters  |${\textsf{\color{Lightgreen}Easy}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/3114-latest-time-you-can-obtain-after-replacing-characters/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/3114-latest-time-you-can-obtain-after-replacing-characters/Solution.js)  |
 
 <br>
 
