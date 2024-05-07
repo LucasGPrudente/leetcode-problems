@@ -1,3 +1,11 @@
+// Return the minimum number of boxes you need to select to redistribute these n packs of apples into boxes
+
+/**
+ * @param {number[]} apple
+ * @param {number[]} capacity
+ * @return {number}
+ */
+
 var minimumBoxes = function (apple, capacity) {
     capacity.sort((a, b) => { return a - b });
 
