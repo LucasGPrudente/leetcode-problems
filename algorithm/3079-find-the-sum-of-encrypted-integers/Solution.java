@@ -1,3 +1,5 @@
+// Return the sum of encrypted elements
+
 class Solution {
     public int sumOfEncryptedInt(int[] nums) {
         int sum = 0;
