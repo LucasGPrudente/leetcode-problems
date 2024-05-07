@@ -5,9 +5,9 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 
 |Number  |Title                                                  |Difficulty                           |Solution             |
 |--------|-------------------------------------------------------|-------------------------------------|---------------------|
-|1       |Two Sum                                                |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
-|9       |Palindrome Number                                      |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
-|13      |Roman to Integer                                       |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
+|1       |Two Sum                                                |${\textsf{\color{Lightgreen}Easy}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/0001-two-sum/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/0001-two-sum/Solution.js)  |
+|9       |Palindrome Number                                      |${\textsf{\color{Lightgreen}Easy}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/0009-palindrome-number/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/0009-palindrome-number/Solution.js)  |
+|13      |Roman to Integer                                       |${\textsf{\color{Lightgreen}Easy}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/0013-roman-to-integer/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/0013-roman-to-integer/Solution.js)  |
 |14      |Longest Common Prefix                                  |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |20      |Valid Parentheses                                      |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
 |26      |Remove Duplicates from Sorted Array                    |${\textsf{\color{Lightgreen}Easy}}$  |Java and JavaScript  |
