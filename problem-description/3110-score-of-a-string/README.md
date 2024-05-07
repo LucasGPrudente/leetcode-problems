@@ -17,8 +17,8 @@ Return the __score__ of s.
 > __Output:__ 13  
 >   
 > __Explanation:__  
->   
-> The __ASCII__ values of the characters in <code>s</code> are: <code>'h' = 104</code>, <code>'e' = 101</code>, <code>'l' = 108</code>, <code>'o' = 111</code>. So, the score of <code>s</code> would be <code>|104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| = 3 + 7 + 0 + 3 = 13</code>.  
+> The __ASCII__ values of the characters in <code>s</code> are: <code>'h' = 104</code>, <code>'e' = 101</code>, <code>'l' = 108</code>, <code>'o' = 111</code>.  
+> So, the score of <code>s</code> would be <code>|104 - 101| + |101 - 108| + |108 - 108| + |108 - 111| = 3 + 7 + 0 + 3 = 13</code>.    
 
 #### Example 2:
 
@@ -27,8 +27,8 @@ Return the __score__ of s.
 > __Output:__ 50  
 >   
 > __Explanation:__  
->   
-> The __ASCII__ values of the characters in s are: <code>'z' = 122</code>, <code>'a' = 97</code>. So, the score of s would be <code>|122 - 97| + |97 - 122| = 25 + 25 = 50</code>.  
+> The __ASCII__ values of the characters in s are: <code>'z' = 122</code>, <code>'a' = 97</code>.  
+> So, the score of s would be <code>|122 - 97| + |97 - 122| = 25 + 25 = 50</code>.  
 
 <br>
 
