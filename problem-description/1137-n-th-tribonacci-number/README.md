@@ -1,6 +1,6 @@
 ## [1137. N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)
 
-<code>Easy</code>
+<code>Easy</code> <code>Math</code> <code>Dynamic Programming</code> <code>Memoization</code>
 
 <br>
 
@@ -14,15 +14,18 @@ Given <code>n</code>, return the value of T<sub>n.
 
 #### Example 1:
 
-> __Input:__ n = 4  
-> __Output:__ 4  
+> __Input:__ n = 4
+> 
+> __Output:__ 4
+> 
 > __Explanation:__  
 > T_3 = 0 + 1 + 1 = 2  
 > T_4 = 1 + 1 + 2 = 4  
 
 #### Example 2:
 
-> __Input:__ n = 25  
+> __Input:__ n = 25
+> 
 > __Output:__ 1389537  
 
 <br>
