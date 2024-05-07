@@ -1,3 +1,10 @@
+// Return the sum of encrypted elements
+
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+
 var sumOfEncryptedInt = function (nums) {
     let sum = 0;
 
