@@ -8,7 +8,7 @@ Given an integer array <code>nums</code>, handle multiple queries of the followi
 
 1. Calculate the __sum__ of the elements of <code>nums</code> between indices <code>left</code> and <code>right</code> __inclusive__ where <code>left <= right</code>.
 
-Implement the NumArray class:
+Implement the <code>NumArray</code> class:
 
 - <code>NumArray(int[] nums)</code> Initializes the object with the integer array <code>nums</code>.
 - <code>int sumRange(int left, int right)</code> Returns the __sum__ of the elements of <code>nums</code> between indices <code>left</code> and <code>right</code> __inclusive__ (i.e. <code>nums[left] + nums[left + 1] + ... + nums[right]</code>).
