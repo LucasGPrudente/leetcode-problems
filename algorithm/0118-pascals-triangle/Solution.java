@@ -1,3 +1,5 @@
+// Return a Pascal's Triangle up to the number of x lines
+
 class Solution {
     public List<List<Integer>> generate(int numRows) {
         List<List<Integer>> triangle = new ArrayList<List<Integer>>();
