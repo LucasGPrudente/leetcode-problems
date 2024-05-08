@@ -1,3 +1,10 @@
+// Return a Pascal's Triangle up to the number of x lines
+
+/**
+ * @param {number} numRows
+ * @return {number[][]}
+ */
+
 var generate = function (numRows) {
     let triangle = [];
     let lastRow = [];
