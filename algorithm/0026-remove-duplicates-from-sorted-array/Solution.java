@@ -1,3 +1,5 @@
+// Return the number of unique elements in nums
+
 class Solution {
     public int removeDuplicates(int[] nums) {
         int lastUniqueNum = nums[0];
