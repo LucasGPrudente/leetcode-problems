@@ -1,3 +1,10 @@
+// Return how many distinct ways can you climb to the top
+
+/**
+ * @param {number} n
+ * @return {number}
+ */
+
 var climbStairs = function (n) {
     if (n <= 2) {
         return n;
