@@ -1,3 +1,11 @@
+// Return the index where it would be if it were inserted in order
+
+/**
+ * @param {number[]} nums
+ * @param {number} target
+ * @return {number}
+ */
+
 var searchInsert = function (nums, target) {
     let i = 0;
 
