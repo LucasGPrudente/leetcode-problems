@@ -1,3 +1,5 @@
+// Return the square root of x rounded down to the nearest integer
+
 class Solution {
     public int mySqrt(int x) {
         long sqrt = x;
