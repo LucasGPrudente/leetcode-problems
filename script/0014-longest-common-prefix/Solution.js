@@ -1,3 +1,10 @@
+// Find the longest common prefix string amongst an array of strings
+
+/**
+ * @param {string[]} strs
+ * @return {string}
+ */
+
 var longestCommonPrefix = function (strs) {
     let prefix = "";
     let arrLen = strs.length;
