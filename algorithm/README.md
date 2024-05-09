@@ -1,3 +1,5 @@
+### Java Solutions
+
 |Number  |Title                                                  |Difficulty                            |Solution                                                                                                                                                   |
 |--------|-------------------------------------------------------|--------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 |1       |Two Sum                                                |${\textsf{\color{Lightgreen}Easy}}$   |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/0001-two-sum/Solution.java)                                                 |
