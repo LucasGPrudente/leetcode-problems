@@ -3,6 +3,8 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 
 <br>
 
+### Easy Problems
+
 |Number  |Title                                                  |Difficulty                           |Solution                                                                                                                                                                                                                                                                                                                  |
 |--------|-------------------------------------------------------|-------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |1       |Two Sum                                                |${\textsf{\color{Lightgreen}Easy}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/0001-two-sum/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/0001-two-sum/Solution.js)                                                                                                |
@@ -102,6 +104,8 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 
 <br>
 
+### Medium Problems
+
 |Number|Title                                           |Difficulty                            |Solution                                                                                                                                                                                                                                                                                                  |
 |------|------------------------------------------------|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |3     |Longest Substring Without Repeating Characters  |${\textsf{\color{Dandelion}Medium}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/0003-longest-substring-without-repeating-characters/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/0003-longest-substring-without-repeating-characters/Solution.js)  |
@@ -118,6 +122,8 @@ Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 |3115  |Maximum Prime Difference                        |${\textsf{\color{Dandelion}Medium}}$  |[Java](https://github.com/LucasGPrudente/leetcode-problems/blob/main/algorithm/3115-maximum-prime-difference/Solution.java) and [JavaScript](https://github.com/LucasGPrudente/leetcode-problems/blob/main/script/3115-maximum-prime-difference/Solution.js)                                              |
 
 <br>
+
+### Hard Problems
 
 |Number|Title                        |Difficulty                          |Solution                                                                                                                                                                                                                                                            |
 |------|-----------------------------|------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
