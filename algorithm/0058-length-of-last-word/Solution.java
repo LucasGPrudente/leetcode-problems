@@ -1,3 +1,5 @@
+// Return the length of the last word in the string
+
 class Solution {
     public int lengthOfLastWord(String s) {
         String str = s.trim();
