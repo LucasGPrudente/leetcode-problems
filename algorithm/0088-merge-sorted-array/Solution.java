@@ -1,3 +1,5 @@
+// Merge nums1 and nums2 into a single array sorted in non-decreasing order
+
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         if (n > 0) {
