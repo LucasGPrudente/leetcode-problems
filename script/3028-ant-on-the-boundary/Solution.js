@@ -7,12 +7,11 @@
 
 var returnToBoundaryCount = function (nums) {
     let times = 0;
-    let curr = 0;
 
-    for (let num of nums) {
-        curr += num;
+    for (let i = 1; i < nums.length; i++) {
+        nums[i] += nums[i - 1]; 
 
-        times = (curr == 0) ? times + 1 : times;
+        if (nums[i] == 0) { times++; }
     }
 
     return times;
