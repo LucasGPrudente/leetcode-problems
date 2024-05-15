@@ -3,12 +3,11 @@
 class Solution {
     public int returnToBoundaryCount(int[] nums) {
         int times = 0;
-        int curr = 0;
 
-        for (int num : nums) {
-            curr += num;
+        for (int i = 1; i < nums.length; i++) {
+            nums[i] += nums[i - 1];
 
-            times = (curr == 0) ? times + 1 : times;
+            if (nums[i] == 0) { times++; }
         }
 
         return times;
