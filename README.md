@@ -1,4 +1,4 @@
-# leetcode_problems oi
+# leetcode_problems
 
 Programming exercises from [LeetCode](https://leetcode.com/problemset/)
 
