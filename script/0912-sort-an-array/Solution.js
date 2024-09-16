@@ -1,35 +1,33 @@
 // Sort the array in ascending order and return it
 
-class Solution {
-    public int[] sortArray(int[] nums) {
-        int max = Integer.MIN_VALUE;
-        int min = Integer.MAX_VALUE;
+/**
+ * @param {number[]} nums
+ * @return {number[]}
+ */
 
-        for (int n : nums) {
-            max = Math.max(max, n);
-            min = Math.min(min, n);
-        }
+var sortArray = function (nums) {
+    let max = Math.max(...nums);
+    let min = Math.min(...nums);
 
-        int range = max - min + 1;
-        int[] cnt = new int[range];
+    let range = max - min + 1;
 
-        for (int n : nums) {
-            cnt[n - min]++;
-        }
+    let cnt = new Array(range).fill(0);
 
-        int[] sorted = new int[nums.length];
-        int j = 0;
-
-        for (int i = 0; i < range; i++) {
-            int num = i + min;
-            int frq = cnt[i];
-
-            while (frq > 0) {
-                sorted[j++] = num;
-                frq--;
-            }
-        }
-
-        return sorted;
+    for (let n of nums) {
+        cnt[n - min]++;
     }
-}
+
+    let sorted = [];
+
+    for (let i = 0; i < range; i++) {
+        let num = i + min;
+        let frq = cnt[i];
+
+        while (frq > 0) {
+            sorted.push(num);
+            frq--;
+        }
+    }
+
+    return sorted;
+};
