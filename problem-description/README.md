@@ -1,8 +1,10 @@
 ### Missing Descriptions
 
+- 119 - Pascal's Triangle II
 - 273 - Integer to English Words
 - 413 - Arithmetic Slices
-- 419 - Battleships in a Board
+- 419 - Battleships in a
+- 539 - Minimum Time Difference
 - 633 - Sum of Square Numbers
 - 735 - Asteroid Collision
 - 912 - Sort an Array
