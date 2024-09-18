@@ -1,6 +1,7 @@
 ### Missing Descriptions
 
 - 16 - 3Sum Closest
+- 112 - Path Sum
 - 119 - Pascal's Triangle II
 - 164 - Maximum Gap
 - 273 - Integer to English Words
