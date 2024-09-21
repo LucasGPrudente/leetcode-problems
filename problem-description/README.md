@@ -1,6 +1,7 @@
 ### Missing Descriptions
 
 - 2 - Add Two Numbers
+- 8 - String to Integer (atoi)
 - 11 - Container With Most Water
 - 16 - 3Sum Closest
 - 19 - Remove Nth Node From End of List
@@ -9,7 +10,7 @@
 - 164 - Maximum Gap
 - 273 - Integer to English Words
 - 413 - Arithmetic Slices
-- 419 - Battleships in a
+- 419 - Battleships in a Board
 - 539 - Minimum Time Difference
 - 633 - Sum of Square Numbers
 - 735 - Asteroid Collision
