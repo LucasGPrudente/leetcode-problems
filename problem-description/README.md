@@ -6,6 +6,7 @@
 - 16 - 3Sum Closest
 - 19 - Remove Nth Node From End of List
 - 29 - Divide Two Integers
+- 53 - Maximum Subarray
 - 112 - Path Sum
 - 119 - Pascal's Triangle II
 - 164 - Maximum Gap
@@ -21,3 +22,4 @@
 - 2303 - Calculate Amount Paid in Taxes
 - 2679 - Sum in a Matrix
 - 3163 - String Compression III
+- 3264 - Final Array State After K Multiplication Operations I
