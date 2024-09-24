@@ -21,5 +21,6 @@
 - 921 - Minimum Add to Make Parentheses Valid
 - 2303 - Calculate Amount Paid in Taxes
 - 2679 - Sum in a Matrix
+- 3043 - Find the Length of the Longest Common Prefix
 - 3163 - String Compression III
 - 3264 - Final Array State After K Multiplication Operations I
