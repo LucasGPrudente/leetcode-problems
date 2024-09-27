@@ -26,3 +26,4 @@
 - 3043 - Find the Length of the Longest Common Prefix
 - 3163 - String Compression III
 - 3264 - Final Array State After K Multiplication Operations I
+- 3295 - Report Spam Message
