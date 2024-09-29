@@ -18,6 +18,7 @@
 - 539 - Minimum Time Difference
 - 633 - Sum of Square Numbers
 - 735 - Asteroid Collision
+- 821 - Shortest Distance to a Character
 - 884 - Uncommon Word from Two Sequences
 - 912 - Sort an Array
 - 921 - Minimum Add to Make Parentheses Valid
