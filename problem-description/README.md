@@ -29,3 +29,4 @@
 - 3163 - String Compression III
 - 3264 - Final Array State After K Multiplication Operations I
 - 3295 - Report Spam Message
+- 3304 - Find the K-th Character in String Game I
