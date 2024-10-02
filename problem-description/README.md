@@ -24,6 +24,7 @@
 - 912 - Sort an Array
 - 921 - Minimum Add to Make Parentheses Valid
 - 1275 - Find Winner on a Tic Tac Toe Game
+- 2079 - Watering Plants
 - 2303 - Calculate Amount Paid in Taxes
 - 2679 - Sum in a Matrix
 - 3043 - Find the Length of the Longest Common Prefix
