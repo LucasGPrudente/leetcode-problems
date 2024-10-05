@@ -27,6 +27,7 @@
 - 2079 - Watering Plants
 - 2303 - Calculate Amount Paid in Taxes
 - 2491 - Divide Players Into Teams of Equal Skill
+- 2631 - Group By
 - 2643 - Row With Maximum Ones
 - 2679 - Sum in a Matrix
 - 3043 - Find the Length of the Longest Common Prefix
