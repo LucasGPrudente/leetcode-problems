@@ -25,6 +25,7 @@
 - 921 - Minimum Add to Make Parentheses Valid
 - 1275 - Find Winner on a Tic Tac Toe Game
 - 2079 - Watering Plants
+- 2125 - Number of Laser Beams in a Bank
 - 2303 - Calculate Amount Paid in Taxes
 - 2491 - Divide Players Into Teams of Equal Skill
 - 2631 - Group By
