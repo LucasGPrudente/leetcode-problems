@@ -31,6 +31,7 @@
 - 2631 - Group By
 - 2643 - Row With Maximum Ones
 - 2679 - Sum in a Matrix
+- 2696 - Minimum String Length After Removing Substrings
 - 3043 - Find the Length of the Longest Common Prefix
 - 3163 - String Compression III
 - 3264 - Final Array State After K Multiplication Operations I
