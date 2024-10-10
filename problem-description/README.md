@@ -25,6 +25,7 @@
 - 884 - Uncommon Word from Two Sequences
 - 912 - Sort an Array
 - 921 - Minimum Add to Make Parentheses Valid
+- 1006 - Clumsy Factorial
 - 1275 - Find Winner on a Tic Tac Toe Game
 - 1456 - Maximum Number of Vowels in a Substring of Given Length
 - 2079 - Watering Plants
