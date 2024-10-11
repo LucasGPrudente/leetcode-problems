@@ -30,6 +30,7 @@
 - 1456 - Maximum Number of Vowels in a Substring of Given Length
 - 2079 - Watering Plants
 - 2125 - Number of Laser Beams in a Bank
+- 2181 - Merge Nodes in Between Zeros
 - 2303 - Calculate Amount Paid in Taxes
 - 2491 - Divide Players Into Teams of Equal Skill
 - 2631 - Group By
