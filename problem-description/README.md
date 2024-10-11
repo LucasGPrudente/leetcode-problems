@@ -1,7 +1,5 @@
 ### Missing Descriptions
 
-- 2 - Add Two Numbers
-- 8 - String to Integer (atoi)
 - 11 - Container With Most Water
 - 16 - 3Sum Closest
 - 19 - Remove Nth Node From End of List
