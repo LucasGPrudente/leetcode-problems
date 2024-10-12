@@ -9,6 +9,7 @@
 - 100 - Same Tree
 - 112 - Path Sum
 - 119 - Pascal's Triangle II
+- 121 - Best Time to Buy and Sell Stock
 - 164 - Maximum Gap
 - 165 - Compare Version Numbers
 - 273 - Integer to English Words
