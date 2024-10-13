@@ -1,6 +1,5 @@
 ### Missing Descriptions
 
-- 11 - Container With Most Water
 - 16 - 3Sum Closest
 - 19 - Remove Nth Node From End of List
 - 29 - Divide Two Integers
