@@ -12,6 +12,8 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 
 #### Example 1:
 
+![image](https://github.com/user-attachments/assets/f2829e81-779c-49ee-9487-9b9dd6452146)
+
 > __Input:__ l1 = [2,4,3], l2 = [5,6,4]
 >
 > __Output:__ [7,0,8]

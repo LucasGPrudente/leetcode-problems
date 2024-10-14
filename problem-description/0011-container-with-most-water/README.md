@@ -4,7 +4,7 @@
 
 <br>
 
-You are given an integer array <code>height</code> of length <code>n</code>. There are <code>n</code> vertical lines drawn such that the two endpoints of the <code>i<sup>th</sup></code> line are <code>(i, 0)</code> and <code>(i, height[i]</code>).
+You are given an integer array <code>height</code> of length <code>n</code>. There are <code>n</code> vertical lines drawn such that the two endpoints of the <code>i<sup>th</sup></code> line are <code>(i, 0)</code> and <code>(i, height[i])</code>.
 
 Find two lines that together with the x-axis form a container, such that the container contains the most water.
 
@@ -16,6 +16,7 @@ __Notice__ that you may not slant the container.
 
 #### Example 1:
 
+![image](https://github.com/user-attachments/assets/1d737b87-824d-4f98-addf-279c099ca110)
 
 > __Input:__ height = [1,8,6,2,5,4,8,3,7]
 >
