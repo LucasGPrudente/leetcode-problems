@@ -31,6 +31,7 @@
 - 2181 - Merge Nodes in Between Zeros
 - 2303 - Calculate Amount Paid in Taxes
 - 2491 - Divide Players Into Teams of Equal Skill
+- 2530 - Maximal Score After Applying K Operations
 - 2631 - Group By
 - 2643 - Row With Maximum Ones
 - 2679 - Sum in a Matrix
