@@ -10,7 +10,7 @@ The integer division should truncate toward zero, which means losing its fractio
 
 Return *the __quotient__ after dividing* <code>dividend</code> *by* <code>divisor</code>.
 
-__Note:__ Assume we are dealing with an environment that could only store integers within the __32-bit__ signed integer range: [-2<sup>31</sup>, 2<sup>31</sup> - 1]. For this problem, if the quotient is __strictly greater than__ 2<sup>31</sup> - 1, then return 2<sup>31</sup> - 1, and if the quotient is __strictly less than__ -2<sup>31</sup>, then return -2<sup>31</sup>.
+__Note:__ Assume we are dealing with an environment that could only store integers within the __32-bit__ signed integer range: [<code>-2<sup>31</sup></code>, <code>2<sup>31</sup> - 1</code>]. For this problem, if the quotient is __strictly greater than__ <code>2<sup>31</sup> - 1</code>, then return <code>2<sup>31</sup> - 1</code>, and if the quotient is __strictly less than__ <code>-2<sup>31</sup></code>, then return <code>-2<sup>31</sup></code>.
 
 <br>
 
