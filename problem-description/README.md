@@ -2,8 +2,6 @@
 
 - 16 - 3Sum Closest
 - 19 - Remove Nth Node From End of List
-- 53 - Maximum Subarray
-- 56 - Merge Intervals
 - 100 - Same Tree
 - 112 - Path Sum
 - 119 - Pascal's Triangle II
