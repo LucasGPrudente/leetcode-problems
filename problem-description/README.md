@@ -2,7 +2,6 @@
 
 - 16 - 3Sum Closest
 - 19 - Remove Nth Node From End of List
-- 29 - Divide Two Integers
 - 53 - Maximum Subarray
 - 56 - Merge Intervals
 - 100 - Same Tree
