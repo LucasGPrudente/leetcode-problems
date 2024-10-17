@@ -15,7 +15,6 @@
 - 539 - Minimum Time Difference
 - 633 - Sum of Square Numbers
 - 735 - Asteroid Collision
-- 819 - Most Common Word
 - 821 - Shortest Distance to a Character
 - 884 - Uncommon Word from Two Sequences
 - 912 - Sort an Array
