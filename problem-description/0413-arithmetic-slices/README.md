@@ -20,7 +20,7 @@ A __subarray__ is a contiguous subsequence of the array.
 > 
 > __Output:__ 3
 > 
-> __Explanation:__ We have 3 arithmetic slices in nums: [1, 2, 3], [2, 3, 4] and [1,2,3,4] itself.
+> __Explanation:__ We have 3 arithmetic slices in nums: [1, 2, 3], [2, 3, 4] and [1,2,3,4] itself. 
 
 #### Example 2:
 
