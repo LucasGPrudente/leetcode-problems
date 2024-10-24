@@ -1,10 +1,5 @@
 ### Missing Descriptions
 
-- 121 - Best Time to Buy and Sell Stock
-- 164 - Maximum Gap
-- 165 - Compare Version Numbers
-- 273 - Integer to English Words
-- 413 - Arithmetic Slices
 - 419 - Battleships in a Board
 - 451 - Sort Characters By Frequency
 - 539 - Minimum Time Difference
